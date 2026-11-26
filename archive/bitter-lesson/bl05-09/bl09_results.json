@@ -1,0 +1,8355 @@
+{
+  "cases": [
+    {
+      "exps": [
+        1
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 561,
+        "xors": 1056,
+        "targets": 103,
+        "ns": 362327
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 289,
+        "xors": 512,
+        "targets": 103,
+        "ns": 200279
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3
+      ],
+      "kind": "monomial",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 198,
+        "xors": 740,
+        "targets": 2,
+        "ns": 305348
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 153,
+        "xors": 240,
+        "targets": 103,
+        "ns": 132436
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 126,
+        "xors": 528,
+        "targets": 103,
+        "ns": 159486
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6
+      ],
+      "kind": "monomial",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 224,
+        "targets": 7,
+        "ns": 155882
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        7
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 95,
+        "xors": 296,
+        "targets": 103,
+        "ns": 134057
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 104,
+        "targets": 103,
+        "ns": 165167
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        9
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 78,
+        "xors": 222,
+        "targets": 103,
+        "ns": 106873
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        10
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 72,
+        "xors": 188,
+        "targets": 103,
+        "ns": 428952
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        11
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 132,
+        "targets": 103,
+        "ns": 103495
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        12
+      ],
+      "kind": "monomial",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 62,
+        "targets": 23,
+        "ns": 124712
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        13
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 98177
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        14
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 96,
+        "targets": 103,
+        "ns": 96849
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        15
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 115832
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        16
+      ],
+      "kind": "monomial",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 36,
+        "targets": 103,
+        "ns": 83458
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        3
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 198,
+        "xors": 742,
+        "targets": 2,
+        "ns": 352932
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 198,
+        "xors": 742,
+        "targets": 2,
+        "ns": 244334
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 198,
+        "xors": 744,
+        "targets": 2,
+        "ns": 259107
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        4
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 153,
+        "xors": 1238,
+        "targets": 2,
+        "ns": 267459
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        4
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 153,
+        "xors": 1240,
+        "targets": 2,
+        "ns": 276253
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        4
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 153,
+        "xors": 1240,
+        "targets": 2,
+        "ns": 279226
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 153,
+        "xors": 1242,
+        "targets": 2,
+        "ns": 455013
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 318,
+        "targets": 2,
+        "ns": 192050
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 320,
+        "targets": 2,
+        "ns": 160377
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 320,
+        "targets": 2,
+        "ns": 161552
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 322,
+        "targets": 2,
+        "ns": 196576
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 530,
+        "targets": 2,
+        "ns": 190385
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        4,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 532,
+        "targets": 2,
+        "ns": 182928
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        4,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 532,
+        "targets": 2,
+        "ns": 183695
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 85,
+        "xors": 534,
+        "targets": 2,
+        "ns": 232845
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 74,
+        "targets": 2,
+        "ns": 128671
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 2,
+        "ns": 132908
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 2,
+        "ns": 169921
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 2,
+        "ns": 137133
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 110,
+        "targets": 2,
+        "ns": 214417
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        4,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 2,
+        "ns": 143890
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        4,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 2,
+        "ns": 143002
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        4,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 114,
+        "targets": 2,
+        "ns": 142382
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 110,
+        "targets": 2,
+        "ns": 146709
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 2,
+        "ns": 150514
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 2,
+        "ns": 149062
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 114,
+        "targets": 2,
+        "ns": 154377
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 146,
+        "targets": 2,
+        "ns": 286485
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 148,
+        "targets": 2,
+        "ns": 157609
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 148,
+        "targets": 2,
+        "ns": 154036
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 1,
+        "r": 0,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 3
+      },
+      "work": {
+        "columns": 51,
+        "xors": 150,
+        "targets": 2,
+        "ns": 205405
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 226,
+        "targets": 7,
+        "ns": 287580
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 226,
+        "targets": 7,
+        "ns": 155101
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 228,
+        "targets": 7,
+        "ns": 158861
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 226,
+        "targets": 7,
+        "ns": 152704
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 228,
+        "targets": 7,
+        "ns": 160173
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 228,
+        "targets": 7,
+        "ns": 251203
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 108,
+        "xors": 230,
+        "targets": 7,
+        "ns": 166868
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 318,
+        "targets": 7,
+        "ns": 183929
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 320,
+        "targets": 7,
+        "ns": 161518
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 320,
+        "targets": 7,
+        "ns": 168386
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 322,
+        "targets": 7,
+        "ns": 364278
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 320,
+        "targets": 7,
+        "ns": 171333
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 322,
+        "targets": 7,
+        "ns": 175462
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 322,
+        "targets": 7,
+        "ns": 173800
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        6,
+        8
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 85,
+        "xors": 324,
+        "targets": 7,
+        "ns": 177475
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 74,
+        "targets": 7,
+        "ns": 135750
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 7,
+        "ns": 134302
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 7,
+        "ns": 137358
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 7,
+        "ns": 167002
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 7,
+        "ns": 394519
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 7,
+        "ns": 144693
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 7,
+        "ns": 143361
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        6,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 80,
+        "targets": 7,
+        "ns": 145067
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 110,
+        "targets": 7,
+        "ns": 147997
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 7,
+        "ns": 144564
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 7,
+        "ns": 180505
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 114,
+        "targets": 7,
+        "ns": 153616
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 7,
+        "ns": 147468
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 114,
+        "targets": 7,
+        "ns": 214495
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 114,
+        "targets": 7,
+        "ns": 161259
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 2,
+        "r": 1,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 6
+      },
+      "work": {
+        "columns": 51,
+        "xors": 116,
+        "targets": 7,
+        "ns": 456006
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 64,
+        "targets": 23,
+        "ns": 127573
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 64,
+        "targets": 23,
+        "ns": 251015
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 66,
+        "targets": 23,
+        "ns": 230514
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 64,
+        "targets": 23,
+        "ns": 280220
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 66,
+        "targets": 23,
+        "ns": 134259
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 66,
+        "targets": 23,
+        "ns": 131190
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 68,
+        "targets": 23,
+        "ns": 134407
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 64,
+        "targets": 23,
+        "ns": 134128
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 66,
+        "targets": 23,
+        "ns": 167142
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 66,
+        "targets": 23,
+        "ns": 263569
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 68,
+        "targets": 23,
+        "ns": 142395
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 66,
+        "targets": 23,
+        "ns": 140782
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 68,
+        "targets": 23,
+        "ns": 266167
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 68,
+        "targets": 23,
+        "ns": 144786
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        8,
+        12
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 63,
+        "xors": 70,
+        "targets": 23,
+        "ns": 145504
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 74,
+        "targets": 23,
+        "ns": 146437
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 23,
+        "ns": 151161
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 23,
+        "ns": 182454
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 23,
+        "ns": 155717
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 23,
+        "ns": 195325
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 23,
+        "ns": 236871
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 23,
+        "ns": 156149
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 80,
+        "targets": 23,
+        "ns": 231033
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 76,
+        "targets": 23,
+        "ns": 156032
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 23,
+        "ns": 197884
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 23,
+        "ns": 329624
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 80,
+        "targets": 23,
+        "ns": 164576
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        4,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 78,
+        "targets": 23,
+        "ns": 261073
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 80,
+        "targets": 23,
+        "ns": 166602
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 80,
+        "targets": 23,
+        "ns": 164962
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        8,
+        12,
+        16
+      ],
+      "kind": "additive_perturbation",
+      "certificate": {
+        "a": 4,
+        "r": 2,
+        "terms": [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "degree": 12
+      },
+      "work": {
+        "columns": 51,
+        "xors": 82,
+        "targets": 23,
+        "ns": 212515
+      },
+      "valid": {
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "exps": [
+        1,
+        2
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 289,
+        "xors": 2044,
+        "targets": 103,
+        "ns": 466685
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 153,
+        "xors": 712,
+        "targets": 103,
+        "ns": 235923
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 153,
+        "xors": 712,
+        "targets": 103,
+        "ns": 401002
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 153,
+        "xors": 1216,
+        "targets": 103,
+        "ns": 286890
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 244,
+        "targets": 103,
+        "ns": 116350
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 244,
+        "targets": 103,
+        "ns": 285147
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 420,
+        "targets": 103,
+        "ns": 245082
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 244,
+        "targets": 103,
+        "ns": 111898
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 420,
+        "targets": 103,
+        "ns": 129798
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 384,
+        "targets": 103,
+        "ns": 132081
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 85,
+        "xors": 524,
+        "targets": 103,
+        "ns": 143634
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 72,
+        "targets": 103,
+        "ns": 82480
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 72,
+        "targets": 103,
+        "ns": 73528
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 102721
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 72,
+        "targets": 103,
+        "ns": 83338
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 81362
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 103213
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 147877
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 72,
+        "targets": 103,
+        "ns": 83916
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 127209
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 84293
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 88391
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 84829
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 93541
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 85562
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "kind": "additive_null",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 180,
+        "targets": 103,
+        "ns": 114417
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 96,
+        "targets": 103,
+        "ns": 119767
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        7,
+        8,
+        9,
+        11,
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 103934
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        8,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 146,
+        "targets": 103,
+        "ns": 104066
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        5,
+        13,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 129301
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        8,
+        13,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 137904
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        8,
+        11,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 109126
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8,
+        11,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 150,
+        "targets": 103,
+        "ns": 258148
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        7,
+        9,
+        10,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 192,
+        "targets": 103,
+        "ns": 113405
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        6,
+        10
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 72,
+        "xors": 292,
+        "targets": 103,
+        "ns": 131419
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        11,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 180,
+        "targets": 103,
+        "ns": 108960
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        7,
+        10,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 246530
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        7,
+        10,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 146,
+        "targets": 103,
+        "ns": 107306
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        11
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 132,
+        "targets": 103,
+        "ns": 143110
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        8,
+        9,
+        12,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 108804
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 96,
+        "targets": 103,
+        "ns": 98287
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        6,
+        8,
+        9,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 180,
+        "targets": 103,
+        "ns": 114102
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        7,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 109821
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        7
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 95,
+        "xors": 420,
+        "targets": 103,
+        "ns": 224367
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        8,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 96,
+        "targets": 103,
+        "ns": 101448
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        7,
+        10,
+        12,
+        13,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 146,
+        "targets": 103,
+        "ns": 179210
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        11
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 132,
+        "targets": 103,
+        "ns": 105134
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        10,
+        12,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 204,
+        "targets": 103,
+        "ns": 113820
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 113746
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        10,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 144,
+        "targets": 103,
+        "ns": 105119
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        9,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 180,
+        "targets": 103,
+        "ns": 114511
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        10,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 198,
+        "targets": 103,
+        "ns": 122541
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 101713
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        11,
+        12,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 204,
+        "targets": 103,
+        "ns": 138010
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        12,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 102512
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        6,
+        8,
+        9,
+        10,
+        13,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 112,
+        "targets": 103,
+        "ns": 100007
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 308184
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 110713
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        6
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 108,
+        "xors": 606,
+        "targets": 103,
+        "ns": 285782
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        7,
+        8,
+        10,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 182,
+        "targets": 103,
+        "ns": 108084
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        5,
+        8,
+        13,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 110,
+        "targets": 103,
+        "ns": 131558
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        7,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 103183
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        6,
+        11,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 180,
+        "targets": 103,
+        "ns": 188842
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        11,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 173785
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        7,
+        12,
+        13,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 146,
+        "targets": 103,
+        "ns": 143517
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        5,
+        7,
+        10,
+        11,
+        12,
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 216011
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        7,
+        10,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 136,
+        "targets": 103,
+        "ns": 104661
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        7,
+        10,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 104892
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 99897
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        4,
+        9
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 78,
+        "xors": 342,
+        "targets": 103,
+        "ns": 137008
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        4,
+        12,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 190,
+        "targets": 103,
+        "ns": 107567
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        10,
+        11,
+        12,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 212,
+        "targets": 103,
+        "ns": 135497
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        13,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 168,
+        "targets": 103,
+        "ns": 106521
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        11,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 100364
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        6,
+        8,
+        9,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 135740
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        9,
+        10,
+        11
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 264,
+        "targets": 103,
+        "ns": 120159
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 95945
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        9,
+        11
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 198,
+        "targets": 103,
+        "ns": 151369
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        7,
+        11,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 148,
+        "targets": 103,
+        "ns": 107594
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        8,
+        13,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 110,
+        "targets": 103,
+        "ns": 103138
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        5,
+        12,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 99395
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6,
+        7,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 96272
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        8,
+        10,
+        11,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 164,
+        "targets": 103,
+        "ns": 111412
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        8,
+        11,
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 142320
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        11,
+        14,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 4022178
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        9,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 113193
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        5,
+        7,
+        10,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 144,
+        "targets": 103,
+        "ns": 145722
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        5,
+        8,
+        9,
+        11
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 198,
+        "targets": 103,
+        "ns": 150077
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        5,
+        7,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 135072
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        7,
+        8,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 145165
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 106960
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8,
+        9,
+        11,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 164,
+        "targets": 103,
+        "ns": 415222
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        10,
+        11,
+        12,
+        13,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 148,
+        "targets": 103,
+        "ns": 107089
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        11,
+        12,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 222,
+        "targets": 103,
+        "ns": 183419
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6,
+        11,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 104994
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        8,
+        9,
+        11,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 94633
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        5,
+        12,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 96691
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        5,
+        10,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 146,
+        "targets": 103,
+        "ns": 106197
+      },
+      "valid": {
+        "4": true,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        6,
+        7,
+        8,
+        10,
+        11,
+        13,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 116,
+        "targets": 103,
+        "ns": 105845
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        6,
+        10,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 116,
+        "targets": 103,
+        "ns": 107797
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        5,
+        10
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 72,
+        "xors": 214,
+        "targets": 103,
+        "ns": 186764
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        6,
+        8,
+        12,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 99569
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        5,
+        7,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 104616
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        5,
+        7,
+        10,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 112184
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 109942
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 107550
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        7,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 96,
+        "targets": 103,
+        "ns": 100798
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        12,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 144,
+        "targets": 103,
+        "ns": 103867
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 192,
+        "targets": 103,
+        "ns": 127121
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        11,
+        12,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 114040
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        6,
+        10
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 72,
+        "xors": 240,
+        "targets": 103,
+        "ns": 135937
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        4,
+        5,
+        11,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 99525
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        8,
+        12,
+        13,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 148,
+        "targets": 103,
+        "ns": 218756
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        12,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 190,
+        "targets": 103,
+        "ns": 108779
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        7,
+        9,
+        11,
+        13,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 168,
+        "targets": 103,
+        "ns": 108680
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        11,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 102177
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        7,
+        10,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 105159
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        6,
+        7,
+        11,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 128563
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 66,
+        "xors": 264,
+        "targets": 103,
+        "ns": 393243
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        7
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 95,
+        "xors": 320,
+        "targets": 103,
+        "ns": 144388
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 235804
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        7,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 104856
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 103341
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        9,
+        12,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 101906
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        5,
+        6,
+        10,
+        11,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 130958
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        4,
+        7,
+        8,
+        11,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 100267
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        8,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 141642
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        9,
+        10,
+        11,
+        13,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 106726
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        8,
+        10,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 108,
+        "targets": 103,
+        "ns": 101594
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        11,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 164,
+        "targets": 103,
+        "ns": 118097
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        7,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 96,
+        "targets": 103,
+        "ns": 190621
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        4,
+        11,
+        12,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 106870
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        6,
+        8,
+        10,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 180,
+        "targets": 103,
+        "ns": 111266
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        9,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 96944
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        7,
+        9
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 78,
+        "xors": 370,
+        "targets": 103,
+        "ns": 170466
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        3,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 96287
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        10,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 135278
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        6,
+        7,
+        10,
+        11,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 102097
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        6,
+        9,
+        10,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 352678
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        7,
+        8,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 84,
+        "targets": 103,
+        "ns": 95628
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        12,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 104082
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        6,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 258,
+        "targets": 103,
+        "ns": 141905
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        3,
+        5,
+        14,
+        15
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 54,
+        "xors": 126,
+        "targets": 103,
+        "ns": 286553
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        9,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 362494
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        5,
+        9
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 78,
+        "xors": 342,
+        "targets": 103,
+        "ns": 232876
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        9,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 180,
+        "targets": 103,
+        "ns": 113806
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        7,
+        8,
+        11,
+        13,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 154,
+        "targets": 103,
+        "ns": 112866
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 121766
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        3,
+        4,
+        7,
+        9,
+        11,
+        12,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 222,
+        "targets": 103,
+        "ns": 117321
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        2,
+        4,
+        13
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 60,
+        "xors": 122,
+        "targets": 103,
+        "ns": 101866
+      },
+      "valid": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        4,
+        6,
+        10,
+        14
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 57,
+        "xors": 144,
+        "targets": 103,
+        "ns": 146646
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        2,
+        5,
+        6,
+        9,
+        12
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 63,
+        "xors": 180,
+        "targets": 103,
+        "ns": 113675
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 0,
+        "xors": 0,
+        "targets": 0,
+        "ns": 3350
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    },
+    {
+      "exps": [
+        1,
+        5,
+        6,
+        8,
+        12,
+        14,
+        16
+      ],
+      "kind": "random",
+      "certificate": null,
+      "work": {
+        "columns": 51,
+        "xors": 144,
+        "targets": 103,
+        "ns": 107466
+      },
+      "valid": {
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false
+      }
+    }
+  ],
+  "large_fields": [
+    {
+      "m": 16,
+      "locations": "65536",
+      "modulus": "0x179f1",
+      "irreducible_attempts": 1,
+      "tests": 192,
+      "syndrome_bits": 33,
+      "wall_ns": 41378512
+    },
+    {
+      "m": 32,
+      "locations": "4294967296",
+      "modulus": "0x1e16d0b27",
+      "irreducible_attempts": 29,
+      "tests": 192,
+      "syndrome_bits": 65,
+      "wall_ns": 145799362
+    },
+    {
+      "m": 64,
+      "locations": "18446744073709551616",
+      "modulus": "0x1420427797725769f",
+      "irreducible_attempts": 8,
+      "tests": 192,
+      "syndrome_bits": 129,
+      "wall_ns": 488110073
+    }
+  ]
+}

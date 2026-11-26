@@ -10,7 +10,7 @@ The original July question is preserved in [Consciousness as a Self-Integrating 
 
 - [C0–C0p](consciousness-c0/): original scripts and available standalone result text; C0 itself has no separately recovered result file.
 - [BL-01–04](bitter-lesson/bl01-04/): original implementations, result JSON and available summaries.
-- [BL-05–09](bitter-lesson/bl05-09/): original research ledger and three CSV summaries; see [custody status](bitter-lesson/bl05-09/CUSTODY.md) for the complete binary package still pending import.
+- [BL-05–09](bitter-lesson/bl05-09/): original complete ZIP, directly browsable implementations, logs, summaries, manifest and two smaller result JSON files. The three large result JSON files are preserved inside the original ZIP rather than duplicated. See [custody record](bitter-lesson/bl05-09/CUSTODY.md).
 - [Evidence and non-claim ledger](CHAT_EVIDENCE_LEDGER.md): historical claim ceilings and relevance to the proposed medium.
 - [Git blob manifest](CHAT_GIT_BLOB_SHA1SUMS.txt): exact source-byte identities for imported originals, not hashes of scientific validity.
 

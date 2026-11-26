@@ -1,0 +1,11 @@
+families
+additive_null 26 certified 0 calibration m5 0 all m4..8 0
+additive_perturbation 93 certified 93 calibration m5 93 all m4..8 93
+monomial 16 certified 3 calibration m5 11 all m4..8 3
+random 128 certified 0 calibration m5 7 all m4..8 0
+empirical calibration failures 111 15
+certificate 96 max degree 12 mean xors 222.25
+large {'m': 16, 'locations': '65536', 'modulus': '0x179f1', 'irreducible_attempts': 1, 'tests': 192, 'syndrome_bits': 33, 'wall_ns': 41378512}
+large {'m': 32, 'locations': '4294967296', 'modulus': '0x1e16d0b27', 'irreducible_attempts': 29, 'tests': 192, 'syndrome_bits': 65, 'wall_ns': 145799362}
+large {'m': 64, 'locations': '18446744073709551616', 'modulus': '0x1420427797725769f', 'irreducible_attempts': 8, 'tests': 192, 'syndrome_bits': 129, 'wall_ns': 488110073}
+All accepted polynomial identities independently expanded and checked; all large-field decoder tests passed.

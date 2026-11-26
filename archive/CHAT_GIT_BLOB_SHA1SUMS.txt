@@ -47,3 +47,16 @@ d5c23c72da784da4ce0d640c6946691eb1c679ea  bitter-lesson/bl05-09/bl05_summary.csv
 e295e82b13810377d60198824609e9a2ec997b51  bitter-lesson/bl05-09/bl06_summary.csv
 2dd321c9704477b82a72600e1d9dced58b658258  bitter-lesson/bl05-09/bl07_summary.csv
 6d284157939f2cb0c1744f4935a5ec24c1c95c10  bitter-lesson/bl05-09/SHA256SUMS.txt
+81a58774154223b30696c457ab7bb3cfdc6a8194  bitter-lesson/bl05-09/bl05.py
+e846c04ca85c28c1dd54b8f0261c1cd4c020349a  bitter-lesson/bl05-09/bl05_log.txt
+6b2db8af96784d33deec077bdce281312fd1c108  bitter-lesson/bl05-09/bl06.py
+4d91f69097748e21ccd8e2f8d84e4ae61e0363c6  bitter-lesson/bl05-09/bl06_log.txt
+1b1c70a86a1ef55f191fd62e01668fbd1591169f  bitter-lesson/bl05-09/bl07.py
+a4e27f3ddfb6c3cc2c2c1265c8c28d862158d5de  bitter-lesson/bl05-09/bl07_log.txt
+bcf48340b3c7e93718466a111594fafbad4c8e3e  bitter-lesson/bl05-09/bl08.py
+fbda11d3d1cf03c69359a34a27bba23ee76cc778  bitter-lesson/bl05-09/bl08_log.txt
+728b0a69346e232a55df3a111dc5f016b56a6998  bitter-lesson/bl05-09/bl08_results.json
+0be18f7594e8e3bf7a2e6024a0934c1f2b52fcff  bitter-lesson/bl05-09/bl09.py
+ef7e97d0d9fff1cccc2592957ff6c28a9145ce99  bitter-lesson/bl05-09/bl09_log.txt
+d92b4a7c84a0c9d49a547d8799269049eb8f2e61  bitter-lesson/bl05-09/bl09_results.json
+80e7ca910b07cfaef98535ee9e6c87baae481924  bitter-lesson/bl05-09/bitter_lesson_BL05_BL09.zip
