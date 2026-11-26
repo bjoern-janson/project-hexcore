@@ -1,0 +1,904 @@
+{
+  "input_bits": 6,
+  "memory_bits": 3,
+  "candidate_count": 81,
+  "encoders_evaluated": 85320,
+  "query_counts": {
+    "parity": 15,
+    "conjunction": 15,
+    "single": 6,
+    "majority3": 20
+  },
+  "best": {
+    "parity": {
+      "12": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "22": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "32": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "42": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "52": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "62": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "72": {
+        "encoder": [
+          "x1",
+          "x2",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.225,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "1000": {
+        "encoder": [
+          "NAND(NAND(x1,x2),NAND(NAND(x1,x1),NAND(x2,x2)))",
+          "NAND(NAND(x1,x4),NAND(NAND(x1,x1),NAND(x4,x4)))",
+          "NAND(NAND(x1,x5),NAND(NAND(x1,x1),NAND(x5,x5)))"
+        ],
+        "description_bits": 87,
+        "training_score": 0.43166666666666664,
+        "exact_coverage": {
+          "parity": 6,
+          "conjunction": 0,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.7,
+          "conjunction": 0.75,
+          "single": 0.5,
+          "majority3": 0.5
+        },
+        "occupied_memory_states": 8
+      }
+    },
+    "conjunction": {
+      "12": {
+        "encoder": [
+          "x0",
+          "x1",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.24333333333333335,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "22": {
+        "encoder": [
+          "x0",
+          "x1",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.24333333333333335,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "32": {
+        "encoder": [
+          "NAND(x0,x1)",
+          "NAND(x1,x5)",
+          "NAND(x2,x3)"
+        ],
+        "description_bits": 27,
+        "training_score": 0.24833333333333332,
+        "exact_coverage": {
+          "parity": 0,
+          "conjunction": 3,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.625,
+          "conjunction": 0.8375,
+          "single": 0.7291666666666666,
+          "majority3": 0.7546875
+        },
+        "occupied_memory_states": 8
+      },
+      "42": {
+        "encoder": [
+          "NAND(x0,x1)",
+          "NAND(x1,x5)",
+          "NAND(x2,x3)"
+        ],
+        "description_bits": 27,
+        "training_score": 0.24833333333333332,
+        "exact_coverage": {
+          "parity": 0,
+          "conjunction": 3,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.625,
+          "conjunction": 0.8375,
+          "single": 0.7291666666666666,
+          "majority3": 0.7546875
+        },
+        "occupied_memory_states": 8
+      },
+      "52": {
+        "encoder": [
+          "NAND(x0,x1)",
+          "NAND(x1,x5)",
+          "NAND(x2,x3)"
+        ],
+        "description_bits": 27,
+        "training_score": 0.24833333333333332,
+        "exact_coverage": {
+          "parity": 0,
+          "conjunction": 3,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.625,
+          "conjunction": 0.8375,
+          "single": 0.7291666666666666,
+          "majority3": 0.7546875
+        },
+        "occupied_memory_states": 8
+      },
+      "62": {
+        "encoder": [
+          "NAND(x0,x1)",
+          "NAND(x1,x5)",
+          "NAND(x2,x3)"
+        ],
+        "description_bits": 27,
+        "training_score": 0.24833333333333332,
+        "exact_coverage": {
+          "parity": 0,
+          "conjunction": 3,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.625,
+          "conjunction": 0.8375,
+          "single": 0.7291666666666666,
+          "majority3": 0.7546875
+        },
+        "occupied_memory_states": 8
+      },
+      "72": {
+        "encoder": [
+          "NAND(x0,x1)",
+          "NAND(x1,x5)",
+          "NAND(x2,x3)"
+        ],
+        "description_bits": 27,
+        "training_score": 0.24833333333333332,
+        "exact_coverage": {
+          "parity": 0,
+          "conjunction": 3,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.625,
+          "conjunction": 0.8375,
+          "single": 0.7291666666666666,
+          "majority3": 0.7546875
+        },
+        "occupied_memory_states": 8
+      },
+      "1000": {
+        "encoder": [
+          "NAND(x0,x1)",
+          "NAND(x1,x5)",
+          "NAND(x2,x3)"
+        ],
+        "description_bits": 27,
+        "training_score": 0.24833333333333332,
+        "exact_coverage": {
+          "parity": 0,
+          "conjunction": 3,
+          "single": 0,
+          "majority3": 0
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.625,
+          "conjunction": 0.8375,
+          "single": 0.7291666666666666,
+          "majority3": 0.7546875
+        },
+        "occupied_memory_states": 8
+      }
+    },
+    "single": {
+      "12": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "22": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "32": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "42": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "52": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "62": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "72": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "1000": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.5316666666666666,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      }
+    },
+    "majority3": {
+      "12": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "22": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "32": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "42": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "52": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "62": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "72": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "1000": {
+        "encoder": [
+          "x1",
+          "x3",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.06,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      }
+    },
+    "mixed": {
+      "12": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "22": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "32": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "42": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "52": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "62": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "72": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      },
+      "1000": {
+        "encoder": [
+          "x1",
+          "x4",
+          "x5"
+        ],
+        "description_bits": 12,
+        "training_score": 0.3233333333333333,
+        "exact_coverage": {
+          "parity": 3,
+          "conjunction": 3,
+          "single": 3,
+          "majority3": 1
+        },
+        "mean_optimal_decoder_accuracy": {
+          "parity": 0.6,
+          "conjunction": 0.8,
+          "single": 0.75,
+          "majority3": 0.75
+        },
+        "occupied_memory_states": 8
+      }
+    }
+  }
+}

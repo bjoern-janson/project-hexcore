@@ -1,0 +1,126 @@
+{
+  "closure": {
+    "found": false,
+    "attempts": 56,
+    "states": 6,
+    "depth": 2,
+    "closed": true
+  },
+  "probes": [
+    {
+      "primitive": 0,
+      "found": false,
+      "attempts": 84,
+      "states": 6,
+      "depth": 2,
+      "closed": true
+    },
+    {
+      "primitive": 1,
+      "found": true,
+      "attempts": 99,
+      "expression": "P1(AND(x0,x1),P1(x0,x1))",
+      "depth": 2,
+      "states": 15
+    }
+  ],
+  "chosen": 1,
+  "traincost": 183,
+  "budget": 100000,
+  "tests": [
+    {
+      "n": 3,
+      "baseline": {
+        "found": true,
+        "attempts": 74022,
+        "expression": "P1(AND(OR(P1(x0,x0),P1(x1,x1)),AND(OR(x0,x1),x2)),OR(AND(P1(x0,x0),P1(x1,x2)),AND(AND(x0,x1),P1(x2,x2))))",
+        "depth": 4,
+        "states": 256,
+        "verified": true
+      },
+      "macro": {
+        "found": true,
+        "attempts": 432,
+        "expression": "M(M(x0,x1),x2)",
+        "depth": 2,
+        "states": 104,
+        "verified": true
+      },
+      "control": {
+        "found": true,
+        "attempts": 83429,
+        "expression": "P11(P11(AND(P11(x0,x1),x2),AND(P1(x0,x0),x1)),AND(P11(x1,P1(x0,x0)),AND(OR(x0,x1),P1(x2,x2))))",
+        "depth": 4,
+        "states": 256,
+        "verified": true
+      }
+    },
+    {
+      "n": 4,
+      "baseline": {
+        "found": false,
+        "attempts": 100000,
+        "states": 7153,
+        "depth": 3
+      },
+      "macro": {
+        "found": true,
+        "attempts": 820,
+        "expression": "M(M(x0,x1),M(x2,x3))",
+        "depth": 2,
+        "states": 307,
+        "verified": true
+      },
+      "control": {
+        "found": false,
+        "attempts": 99817,
+        "states": 6354,
+        "depth": 3
+      }
+    },
+    {
+      "n": 5,
+      "baseline": {
+        "found": false,
+        "attempts": 100000,
+        "states": 22896,
+        "depth": 3
+      },
+      "macro": {
+        "found": true,
+        "attempts": 42980,
+        "expression": "M(M(P1(x0,x0),x1),M(P1(x2,x2),M(x3,x4)))",
+        "depth": 3,
+        "states": 14686,
+        "verified": true
+      },
+      "control": {
+        "found": false,
+        "attempts": 99817,
+        "states": 19639,
+        "depth": 3
+      }
+    },
+    {
+      "n": 6,
+      "baseline": {
+        "found": false,
+        "attempts": 100000,
+        "states": 32691,
+        "depth": 3
+      },
+      "macro": {
+        "found": false,
+        "attempts": 99817,
+        "states": 42233,
+        "depth": 3
+      },
+      "control": {
+        "found": false,
+        "attempts": 99817,
+        "states": 25388,
+        "depth": 3
+      }
+    }
+  ]
+}

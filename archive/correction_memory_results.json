@@ -1,0 +1,640 @@
+{
+  "summary": {
+    "iid": {
+      "random": {
+        "mean": 0.09116666515668233,
+        "seed_sd": 0.0049827580915220325
+      },
+      "recency": {
+        "mean": 0.07250000000931323,
+        "seed_sd": 0.040104636280051786
+      },
+      "global_joint": {
+        "mean": 0.28530000150203705,
+        "seed_sd": 0.043862306266872396
+      },
+      "learned_marginal": {
+        "mean": 0.7689333309729894,
+        "seed_sd": 0.015352664297061683
+      },
+      "learned_joint": {
+        "mean": 0.7869333326816559,
+        "seed_sd": 0.014256178921318058
+      },
+      "oracle_distribution": {
+        "mean": 0.8238999992609024,
+        "seed_sd": 0.01636059375556418
+      }
+    },
+    "mixture": {
+      "random": {
+        "mean": 0.09196666752298673,
+        "seed_sd": 0.00677204499003963
+      },
+      "recency": {
+        "mean": 0.08156666718423367,
+        "seed_sd": 0.020987586762198522
+      },
+      "global_joint": {
+        "mean": 0.18969999998807907,
+        "seed_sd": 0.01986069534685334
+      },
+      "learned_marginal": {
+        "mean": 0.4312666654586792,
+        "seed_sd": 0.013078598378348932
+      },
+      "learned_joint": {
+        "mean": 0.4411333327492078,
+        "seed_sd": 0.013480579294383264
+      },
+      "oracle_distribution": {
+        "mean": 0.4583333333333333,
+        "seed_sd": 0.014268933926578043
+      }
+    },
+    "relabel": {
+      "random": {
+        "mean": 0.09083333363135655,
+        "seed_sd": 0.003998029752014621
+      },
+      "recency": {
+        "mean": 0.07399999955669045,
+        "seed_sd": 0.04359983282161581
+      },
+      "global_joint": {
+        "mean": 0.290499996393919,
+        "seed_sd": 0.05043234976659741
+      },
+      "learned_marginal": {
+        "mean": 0.09276666694010298,
+        "seed_sd": 0.052079786347437325
+      },
+      "learned_joint": {
+        "mean": 0.08816666668280959,
+        "seed_sd": 0.05166590860496488
+      },
+      "oracle_distribution": {
+        "mean": 0.8247999995946884,
+        "seed_sd": 0.01950739687805452
+      }
+    },
+    "uniform": {
+      "random": {
+        "mean": 0.08859999974568684,
+        "seed_sd": 0.0038536877883855987
+      },
+      "recency": {
+        "mean": 0.08886666720112164,
+        "seed_sd": 0.005692313025983402
+      },
+      "global_joint": {
+        "mean": 0.09306666565438111,
+        "seed_sd": 0.004471593358146688
+      },
+      "learned_marginal": {
+        "mean": 0.08786666641632716,
+        "seed_sd": 0.0043828868649033684
+      },
+      "learned_joint": {
+        "mean": 0.08926666714251041,
+        "seed_sd": 0.004747695034410621
+      },
+      "oracle_distribution": {
+        "mean": 0.09070000052452087,
+        "seed_sd": 0.004649534764886532
+      }
+    },
+    "novel": {
+      "random": {
+        "mean": 0.09080000035464764,
+        "seed_sd": 0.005910853202152601
+      },
+      "recency": {
+        "mean": 0.09336666576564312,
+        "seed_sd": 0.022619996421454826
+      },
+      "global_joint": {
+        "mean": 0.0616000002870957,
+        "seed_sd": 0.013390905543486679
+      },
+      "learned_marginal": {
+        "mean": 0.0072666667207765085,
+        "seed_sd": 0.0019731531978828655
+      },
+      "learned_joint": {
+        "mean": 0.005333333237407108,
+        "seed_sd": 0.0018317071792223218
+      },
+      "oracle_distribution": {
+        "mean": 0.2285000023742517,
+        "seed_sd": 0.015736121768513873
+      }
+    }
+  },
+  "seeds": [
+    {
+      "iid": {
+        "random": 0.08919999748468399,
+        "recency": 0.14800000190734863,
+        "global_joint": 0.27959999442100525,
+        "learned_marginal": 0.7820000052452087,
+        "learned_joint": 0.803600013256073,
+        "oracle_distribution": 0.8367999792098999
+      },
+      "mixture": {
+        "random": 0.09040000289678574,
+        "recency": 0.1151999980211258,
+        "global_joint": 0.19480000436306,
+        "learned_marginal": 0.4580000042915344,
+        "learned_joint": 0.47119998931884766,
+        "oracle_distribution": 0.4848000109195709
+      },
+      "relabel": {
+        "random": 0.09200000017881393,
+        "recency": 0.15399999916553497,
+        "global_joint": 0.28839999437332153,
+        "learned_marginal": 0.08640000224113464,
+        "learned_joint": 0.0835999995470047,
+        "oracle_distribution": 0.8320000171661377
+      },
+      "uniform": {
+        "random": 0.0860000029206276,
+        "recency": 0.08640000224113464,
+        "global_joint": 0.08839999884366989,
+        "learned_marginal": 0.09120000153779984,
+        "learned_joint": 0.09239999949932098,
+        "oracle_distribution": 0.09080000221729279
+      },
+      "novel": {
+        "random": 0.0812000036239624,
+        "recency": 0.07159999758005142,
+        "global_joint": 0.05400000140070915,
+        "learned_marginal": 0.007199999876320362,
+        "learned_joint": 0.00559999980032444,
+        "oracle_distribution": 0.1972000002861023
+      }
+    },
+    {
+      "iid": {
+        "random": 0.09399999678134918,
+        "recency": 0.05079999938607216,
+        "global_joint": 0.3027999997138977,
+        "learned_marginal": 0.7883999943733215,
+        "learned_joint": 0.8011999726295471,
+        "oracle_distribution": 0.8447999954223633
+      },
+      "mixture": {
+        "random": 0.0868000015616417,
+        "recency": 0.0575999990105629,
+        "global_joint": 0.2003999948501587,
+        "learned_marginal": 0.4456000030040741,
+        "learned_joint": 0.4551999866962433,
+        "oracle_distribution": 0.47679999470710754
+      },
+      "relabel": {
+        "random": 0.0851999968290329,
+        "recency": 0.041600000113248825,
+        "global_joint": 0.30640000104904175,
+        "learned_marginal": 0.2011999934911728,
+        "learned_joint": 0.19920000433921814,
+        "oracle_distribution": 0.8428000211715698
+      },
+      "uniform": {
+        "random": 0.09080000221729279,
+        "recency": 0.08160000294446945,
+        "global_joint": 0.09839999675750732,
+        "learned_marginal": 0.08879999816417694,
+        "learned_joint": 0.09120000153779984,
+        "oracle_distribution": 0.09160000085830688
+      },
+      "novel": {
+        "random": 0.09560000151395798,
+        "recency": 0.12839999794960022,
+        "global_joint": 0.06360000371932983,
+        "learned_marginal": 0.005200000014156103,
+        "learned_joint": 0.004399999976158142,
+        "oracle_distribution": 0.21559999883174896
+      }
+    },
+    {
+      "iid": {
+        "random": 0.09359999746084213,
+        "recency": 0.046799998730421066,
+        "global_joint": 0.2939999997615814,
+        "learned_marginal": 0.7603999972343445,
+        "learned_joint": 0.782800018787384,
+        "oracle_distribution": 0.8259999752044678
+      },
+      "mixture": {
+        "random": 0.09279999881982803,
+        "recency": 0.06639999896287918,
+        "global_joint": 0.19840000569820404,
+        "learned_marginal": 0.4180000126361847,
+        "learned_joint": 0.4300000071525574,
+        "oracle_distribution": 0.44359999895095825
+      },
+      "relabel": {
+        "random": 0.0860000029206276,
+        "recency": 0.052000001072883606,
+        "global_joint": 0.3019999861717224,
+        "learned_marginal": 0.10279999673366547,
+        "learned_joint": 0.09520000219345093,
+        "oracle_distribution": 0.819599986076355
+      },
+      "uniform": {
+        "random": 0.08640000224113464,
+        "recency": 0.09399999678134918,
+        "global_joint": 0.09679999947547913,
+        "learned_marginal": 0.0843999981880188,
+        "learned_joint": 0.08560000360012054,
+        "oracle_distribution": 0.09239999949932098
+      },
+      "novel": {
+        "random": 0.09200000017881393,
+        "recency": 0.09120000153779984,
+        "global_joint": 0.04399999976158142,
+        "learned_marginal": 0.007600000128149986,
+        "learned_joint": 0.00559999980032444,
+        "oracle_distribution": 0.2460000067949295
+      }
+    },
+    {
+      "iid": {
+        "random": 0.09359999746084213,
+        "recency": 0.030799999833106995,
+        "global_joint": 0.30480000376701355,
+        "learned_marginal": 0.775600016117096,
+        "learned_joint": 0.7955999970436096,
+        "oracle_distribution": 0.83160001039505
+      },
+      "mixture": {
+        "random": 0.08879999816417694,
+        "recency": 0.06239999830722809,
+        "global_joint": 0.1932000070810318,
+        "learned_marginal": 0.4291999936103821,
+        "learned_joint": 0.43959999084472656,
+        "oracle_distribution": 0.4575999975204468
+      },
+      "relabel": {
+        "random": 0.08959999680519104,
+        "recency": 0.025200000032782555,
+        "global_joint": 0.31839999556541443,
+        "learned_marginal": 0.03480000048875809,
+        "learned_joint": 0.029999999329447746,
+        "oracle_distribution": 0.8367999792098999
+      },
+      "uniform": {
+        "random": 0.0835999995470047,
+        "recency": 0.09520000219345093,
+        "global_joint": 0.0828000009059906,
+        "learned_marginal": 0.09080000221729279,
+        "learned_joint": 0.09399999678134918,
+        "oracle_distribution": 0.08799999952316284
+      },
+      "novel": {
+        "random": 0.09279999881982803,
+        "recency": 0.09359999746084213,
+        "global_joint": 0.04960000142455101,
+        "learned_marginal": 0.009999999776482582,
+        "learned_joint": 0.00839999970048666,
+        "oracle_distribution": 0.2484000027179718
+      }
+    },
+    {
+      "iid": {
+        "random": 0.09560000151395798,
+        "recency": 0.09679999947547913,
+        "global_joint": 0.2996000051498413,
+        "learned_marginal": 0.7631999850273132,
+        "learned_joint": 0.7843999862670898,
+        "oracle_distribution": 0.8267999887466431
+      },
+      "mixture": {
+        "random": 0.0812000036239624,
+        "recency": 0.09480000287294388,
+        "global_joint": 0.18320000171661377,
+        "learned_marginal": 0.4156000018119812,
+        "learned_joint": 0.4300000071525574,
+        "oracle_distribution": 0.44920000433921814
+      },
+      "relabel": {
+        "random": 0.09600000083446503,
+        "recency": 0.09960000216960907,
+        "global_joint": 0.3107999861240387,
+        "learned_marginal": 0.07800000160932541,
+        "learned_joint": 0.07199999690055847,
+        "oracle_distribution": 0.8187999725341797
+      },
+      "uniform": {
+        "random": 0.08799999952316284,
+        "recency": 0.0835999995470047,
+        "global_joint": 0.08919999748468399,
+        "learned_marginal": 0.0851999968290329,
+        "learned_joint": 0.08560000360012054,
+        "oracle_distribution": 0.09040000289678574
+      },
+      "novel": {
+        "random": 0.08919999748468399,
+        "recency": 0.06719999760389328,
+        "global_joint": 0.08079999685287476,
+        "learned_marginal": 0.007600000128149986,
+        "learned_joint": 0.006000000052154064,
+        "oracle_distribution": 0.23199999332427979
+      }
+    },
+    {
+      "iid": {
+        "random": 0.09399999678134918,
+        "recency": 0.07559999823570251,
+        "global_joint": 0.23319999873638153,
+        "learned_marginal": 0.7512000203132629,
+        "learned_joint": 0.7675999999046326,
+        "oracle_distribution": 0.8080000281333923
+      },
+      "mixture": {
+        "random": 0.09319999814033508,
+        "recency": 0.09399999678134918,
+        "global_joint": 0.17159999907016754,
+        "learned_marginal": 0.42879998683929443,
+        "learned_joint": 0.43880000710487366,
+        "oracle_distribution": 0.4544000029563904
+      },
+      "relabel": {
+        "random": 0.09600000083446503,
+        "recency": 0.09120000153779984,
+        "global_joint": 0.25999999046325684,
+        "learned_marginal": 0.0272000003606081,
+        "learned_joint": 0.02800000086426735,
+        "oracle_distribution": 0.8172000050544739
+      },
+      "uniform": {
+        "random": 0.0843999981880188,
+        "recency": 0.08839999884366989,
+        "global_joint": 0.09440000355243683,
+        "learned_marginal": 0.08760000020265579,
+        "learned_joint": 0.09000000357627869,
+        "oracle_distribution": 0.08640000224113464
+      },
+      "novel": {
+        "random": 0.09440000355243683,
+        "recency": 0.07599999755620956,
+        "global_joint": 0.07919999957084656,
+        "learned_marginal": 0.006800000090152025,
+        "learned_joint": 0.00279999990016222,
+        "oracle_distribution": 0.21960000693798065
+      }
+    },
+    {
+      "iid": {
+        "random": 0.08479999750852585,
+        "recency": 0.06920000165700912,
+        "global_joint": 0.311599999666214,
+        "learned_marginal": 0.7839999794960022,
+        "learned_joint": 0.8011999726295471,
+        "oracle_distribution": 0.83160001039505
+      },
+      "mixture": {
+        "random": 0.09600000083446503,
+        "recency": 0.08560000360012054,
+        "global_joint": 0.20080000162124634,
+        "learned_marginal": 0.4228000044822693,
+        "learned_joint": 0.4311999976634979,
+        "oracle_distribution": 0.44600000977516174
+      },
+      "relabel": {
+        "random": 0.09279999881982803,
+        "recency": 0.06319999694824219,
+        "global_joint": 0.3192000091075897,
+        "learned_marginal": 0.11400000005960464,
+        "learned_joint": 0.11240000277757645,
+        "oracle_distribution": 0.8335999846458435
+      },
+      "uniform": {
+        "random": 0.09560000151395798,
+        "recency": 0.09480000287294388,
+        "global_joint": 0.09359999746084213,
+        "learned_marginal": 0.08560000360012054,
+        "learned_joint": 0.08760000020265579,
+        "oracle_distribution": 0.10119999945163727
+      },
+      "novel": {
+        "random": 0.07999999821186066,
+        "recency": 0.07400000095367432,
+        "global_joint": 0.07240000367164612,
+        "learned_marginal": 0.006800000090152025,
+        "learned_joint": 0.004000000189989805,
+        "oracle_distribution": 0.2303999960422516
+      }
+    },
+    {
+      "iid": {
+        "random": 0.08720000088214874,
+        "recency": 0.03840000182390213,
+        "global_joint": 0.3824000060558319,
+        "learned_marginal": 0.7868000268936157,
+        "learned_joint": 0.795199990272522,
+        "oracle_distribution": 0.8396000266075134
+      },
+      "mixture": {
+        "random": 0.09880000352859497,
+        "recency": 0.06360000371932983,
+        "global_joint": 0.22759999334812164,
+        "learned_marginal": 0.44359999895095825,
+        "learned_joint": 0.4496000111103058,
+        "oracle_distribution": 0.4699999988079071
+      },
+      "relabel": {
+        "random": 0.08560000360012054,
+        "recency": 0.03319999948143959,
+        "global_joint": 0.4016000032424927,
+        "learned_marginal": 0.13840000331401825,
+        "learned_joint": 0.13079999387264252,
+        "oracle_distribution": 0.853600025177002
+      },
+      "uniform": {
+        "random": 0.0843999981880188,
+        "recency": 0.09120000153779984,
+        "global_joint": 0.09319999814033508,
+        "learned_marginal": 0.0851999968290329,
+        "learned_joint": 0.0851999968290329,
+        "oracle_distribution": 0.08160000294446945
+      },
+      "novel": {
+        "random": 0.0868000015616417,
+        "recency": 0.09120000153779984,
+        "global_joint": 0.047200001776218414,
+        "learned_marginal": 0.00800000037997961,
+        "learned_joint": 0.004399999976158142,
+        "oracle_distribution": 0.22200000286102295
+      }
+    },
+    {
+      "iid": {
+        "random": 0.0851999968290329,
+        "recency": 0.10719999670982361,
+        "global_joint": 0.2856000065803528,
+        "learned_marginal": 0.7487999796867371,
+        "learned_joint": 0.7680000066757202,
+        "oracle_distribution": 0.8051999807357788
+      },
+      "mixture": {
+        "random": 0.08640000224113464,
+        "recency": 0.10080000013113022,
+        "global_joint": 0.1923999935388565,
+        "learned_marginal": 0.42879998683929443,
+        "learned_joint": 0.4415999948978424,
+        "oracle_distribution": 0.4620000123977661
+      },
+      "relabel": {
+        "random": 0.08760000020265579,
+        "recency": 0.11999999731779099,
+        "global_joint": 0.27079999446868896,
+        "learned_marginal": 0.06239999830722809,
+        "learned_joint": 0.0544000007212162,
+        "oracle_distribution": 0.8032000064849854
+      },
+      "uniform": {
+        "random": 0.08959999680519104,
+        "recency": 0.09319999814033508,
+        "global_joint": 0.09839999675750732,
+        "learned_marginal": 0.09200000017881393,
+        "learned_joint": 0.09239999949932098,
+        "oracle_distribution": 0.09239999949932098
+      },
+      "novel": {
+        "random": 0.09920000284910202,
+        "recency": 0.11919999867677689,
+        "global_joint": 0.06199999898672104,
+        "learned_marginal": 0.007600000128149986,
+        "learned_joint": 0.006399999838322401,
+        "oracle_distribution": 0.22040000557899475
+      }
+    },
+    {
+      "iid": {
+        "random": 0.0860000029206276,
+        "recency": 0.12520000338554382,
+        "global_joint": 0.20720000565052032,
+        "learned_marginal": 0.753600001335144,
+        "learned_joint": 0.7716000080108643,
+        "oracle_distribution": 0.8008000254631042
+      },
+      "mixture": {
+        "random": 0.09759999811649323,
+        "recency": 0.1080000028014183,
+        "global_joint": 0.1436000019311905,
+        "learned_marginal": 0.43560001254081726,
+        "learned_joint": 0.44040000438690186,
+        "oracle_distribution": 0.4535999894142151
+      },
+      "relabel": {
+        "random": 0.09399999678134918,
+        "recency": 0.12439999729394913,
+        "global_joint": 0.1964000016450882,
+        "learned_marginal": 0.03880000114440918,
+        "learned_joint": 0.03759999945759773,
+        "oracle_distribution": 0.8064000010490417
+      },
+      "uniform": {
+        "random": 0.09120000153779984,
+        "recency": 0.0828000009059906,
+        "global_joint": 0.09520000219345093,
+        "learned_marginal": 0.09759999811649323,
+        "learned_joint": 0.09920000284910202,
+        "oracle_distribution": 0.08879999816417694
+      },
+      "novel": {
+        "random": 0.09719999879598618,
+        "recency": 0.07000000029802322,
+        "global_joint": 0.07199999690055847,
+        "learned_marginal": 0.0031999999191612005,
+        "learned_joint": 0.00279999990016222,
+        "oracle_distribution": 0.2272000014781952
+      }
+    },
+    {
+      "iid": {
+        "random": 0.10119999945163727,
+        "recency": 0.014800000004470348,
+        "global_joint": 0.2680000066757202,
+        "learned_marginal": 0.7803999781608582,
+        "learned_joint": 0.8004000186920166,
+        "oracle_distribution": 0.8371999859809875
+      },
+      "mixture": {
+        "random": 0.0860000029206276,
+        "recency": 0.053599998354911804,
+        "global_joint": 0.18320000171661377,
+        "learned_marginal": 0.4343999922275543,
+        "learned_joint": 0.44600000977516174,
+        "oracle_distribution": 0.4659999907016754
+      },
+      "relabel": {
+        "random": 0.09440000355243683,
+        "recency": 0.017999999225139618,
+        "global_joint": 0.274399995803833,
+        "learned_marginal": 0.15160000324249268,
+        "learned_joint": 0.1451999992132187,
+        "oracle_distribution": 0.8460000157356262
+      },
+      "uniform": {
+        "random": 0.08919999748468399,
+        "recency": 0.0803999975323677,
+        "global_joint": 0.09279999881982803,
+        "learned_marginal": 0.0828000009059906,
+        "learned_joint": 0.08320000022649765,
+        "oracle_distribution": 0.09120000153779984
+      },
+      "novel": {
+        "random": 0.09200000017881393,
+        "recency": 0.12280000001192093,
+        "global_joint": 0.06960000097751617,
+        "learned_marginal": 0.01080000028014183,
+        "learned_joint": 0.00839999970048666,
+        "oracle_distribution": 0.2287999987602234
+      }
+    },
+    {
+      "iid": {
+        "random": 0.08959999680519104,
+        "recency": 0.06639999896287918,
+        "global_joint": 0.2547999918460846,
+        "learned_marginal": 0.7527999877929688,
+        "learned_joint": 0.7716000080108643,
+        "oracle_distribution": 0.7983999848365784
+      },
+      "mixture": {
+        "random": 0.10559999942779541,
+        "recency": 0.07680000364780426,
+        "global_joint": 0.18719999492168427,
+        "learned_marginal": 0.4147999882698059,
+        "learned_joint": 0.41999998688697815,
+        "oracle_distribution": 0.4359999895095825
+      },
+      "relabel": {
+        "random": 0.09080000221729279,
+        "recency": 0.06560000032186508,
+        "global_joint": 0.23759999871253967,
+        "learned_marginal": 0.07760000228881836,
+        "learned_joint": 0.06960000097751617,
+        "oracle_distribution": 0.7875999808311462
+      },
+      "uniform": {
+        "random": 0.09399999678134918,
+        "recency": 0.09480000287294388,
+        "global_joint": 0.09359999746084213,
+        "learned_marginal": 0.08320000022649765,
+        "learned_joint": 0.08479999750852585,
+        "oracle_distribution": 0.09359999746084213
+      },
+      "novel": {
+        "random": 0.08919999748468399,
+        "recency": 0.1151999980211258,
+        "global_joint": 0.04479999840259552,
+        "learned_marginal": 0.006399999838322401,
+        "learned_joint": 0.005200000014156103,
+        "oracle_distribution": 0.25440001487731934
+      }
+    }
+  ]
+}

@@ -1,0 +1,1127 @@
+{
+  "records": [
+    {
+      "n": 4,
+      "family": "parity",
+      "trial": 3,
+      "target": "0x6996",
+      "results": {
+        "bdd": {
+          "gates": 19,
+          "us": 70.314
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 303.962,
+          "checks": 40
+        },
+        "multi": {
+          "gates": 17,
+          "us": 81.16,
+          "classes": 2
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "mixed",
+      "trial": 2,
+      "target": "0x936c",
+      "results": {
+        "bdd": {
+          "gates": 19,
+          "us": 36.314
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 298.243,
+          "checks": 69
+        },
+        "multi": {
+          "gates": 19,
+          "us": 55.232,
+          "classes": 4
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "majority",
+      "trial": 1,
+      "target": "0xe880",
+      "results": {
+        "bdd": {
+          "gates": 13,
+          "us": 30.886
+        },
+        "scoped": {
+          "gates": null,
+          "us": 160.017,
+          "checks": 160
+        },
+        "multi": {
+          "gates": 17,
+          "us": 65.337,
+          "classes": 3
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 6,
+      "family": "parity",
+      "trial": 2,
+      "target": "0x6996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 33,
+          "us": 103.393
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1404.095,
+          "checks": 144
+        },
+        "multi": {
+          "gates": 31,
+          "us": 102.993,
+          "classes": 2
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 8,
+      "family": "mixed",
+      "trial": 0,
+      "target": "0x956a6a9555aaaa556a95956aaa5555aa55aaaa5555aaaa55aa5555aaaa5555aa",
+      "results": {
+        "bdd": {
+          "gates": 59,
+          "us": 263.081
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 7725.163,
+          "checks": 1007
+        },
+        "multi": {
+          "gates": 45,
+          "us": 300.136,
+          "classes": 4
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 6,
+      "family": "parity",
+      "trial": 0,
+      "target": "0x6996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 33,
+          "us": 93.859
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1601.178,
+          "checks": 144
+        },
+        "multi": {
+          "gates": 31,
+          "us": 104.024,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 6,
+      "family": "mixed",
+      "trial": 2,
+      "target": "0x6999999996666666",
+      "results": {
+        "bdd": {
+          "gates": 33,
+          "us": 118.446
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1680.696,
+          "checks": 186
+        },
+        "multi": {
+          "gates": 28,
+          "us": 106.758,
+          "classes": 4
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 6,
+      "family": "random",
+      "trial": 3,
+      "target": "0x67c6b11b7880eff7",
+      "results": {
+        "bdd": {
+          "gates": 54,
+          "us": 110.284
+        },
+        "scoped": {
+          "gates": null,
+          "us": 1619.756,
+          "checks": 1616
+        },
+        "multi": {
+          "gates": 56,
+          "us": 228.85,
+          "classes": 8
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "random",
+      "trial": 3,
+      "target": "0xa323",
+      "results": {
+        "bdd": {
+          "gates": 12,
+          "us": 30.886
+        },
+        "scoped": {
+          "gates": null,
+          "us": 173.999,
+          "checks": 152
+        },
+        "multi": {
+          "gates": 10,
+          "us": 78.066,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 4,
+      "family": "majority",
+      "trial": 2,
+      "target": "0xe880",
+      "results": {
+        "bdd": {
+          "gates": 13,
+          "us": 41.341
+        },
+        "scoped": {
+          "gates": null,
+          "us": 152.236,
+          "checks": 160
+        },
+        "multi": {
+          "gates": 17,
+          "us": 288.549,
+          "classes": 3
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 6,
+      "family": "mixed",
+      "trial": 0,
+      "target": "0x6999966699996666",
+      "results": {
+        "bdd": {
+          "gates": 33,
+          "us": 77.385
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1442.953,
+          "checks": 170
+        },
+        "multi": {
+          "gates": 31,
+          "us": 109.923,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 4,
+      "family": "mixed",
+      "trial": 0,
+      "target": "0x936c",
+      "results": {
+        "bdd": {
+          "gates": 19,
+          "us": 34.752
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 314.087,
+          "checks": 69
+        },
+        "multi": {
+          "gates": 19,
+          "us": 55.102,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 4,
+      "family": "random",
+      "trial": 0,
+      "target": "0xeb8c",
+      "results": {
+        "bdd": {
+          "gates": 16,
+          "us": 35.052
+        },
+        "scoped": {
+          "gates": null,
+          "us": 147.769,
+          "checks": 140
+        },
+        "multi": {
+          "gates": 16,
+          "us": 259.716,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 6,
+      "family": "parity",
+      "trial": 3,
+      "target": "0x6996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 33,
+          "us": 90.945
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1499.838,
+          "checks": 144
+        },
+        "multi": {
+          "gates": 31,
+          "us": 113.058,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "random",
+      "trial": 2,
+      "target": "0xe201f9486ecb4f0ddea21987eb14ab6012d4e763ea4fbae17c61cf8bdbbc5a94",
+      "results": {
+        "bdd": {
+          "gates": 163,
+          "us": 398.893
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13861.568,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 159,
+          "us": 671.437,
+          "classes": 16
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 6,
+      "family": "random",
+      "trial": 1,
+      "target": "0x9cb4102fb537b96a",
+      "results": {
+        "bdd": {
+          "gates": 54,
+          "us": 111.786
+        },
+        "scoped": {
+          "gates": null,
+          "us": 1625.544,
+          "checks": 1584
+        },
+        "multi": {
+          "gates": 50,
+          "us": 190.784,
+          "classes": 8
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "mixed",
+      "trial": 1,
+      "target": "0x9666",
+      "results": {
+        "bdd": {
+          "gates": 16,
+          "us": 31.557
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 301.968,
+          "checks": 37
+        },
+        "multi": {
+          "gates": 14,
+          "us": 43.655,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "parity",
+      "trial": 2,
+      "target": "0x6996966996696996966969966996966996696996699696696996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 47,
+          "us": 214.869
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 8225.796,
+          "checks": 536
+        },
+        "multi": {
+          "gates": 45,
+          "us": 272.775,
+          "classes": 2
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 8,
+      "family": "random",
+      "trial": 0,
+      "target": "0x65faaf858e92a8826a2bfae1f14962dbf55ce9d1dfcca96163d87c28cbfe1dfd",
+      "results": {
+        "bdd": {
+          "gates": 164,
+          "us": 461.575
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13510.044,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 156,
+          "us": 617.587,
+          "classes": 16
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 6,
+      "family": "majority",
+      "trial": 2,
+      "target": "0xfee8e880e8808000",
+      "results": {
+        "bdd": {
+          "gates": 30,
+          "us": 78.717
+        },
+        "scoped": {
+          "gates": null,
+          "us": 1968.945,
+          "checks": 1984
+        },
+        "multi": {
+          "gates": 36,
+          "us": 117.334,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "majority",
+      "trial": 0,
+      "target": "0xfffefee8fee8e880fee8e880e8808000fee8e880e8808000e880800080000000",
+      "results": {
+        "bdd": {
+          "gates": 53,
+          "us": 260.337
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13324.499,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 68,
+          "us": 380.255,
+          "classes": 5
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 8,
+      "family": "mixed",
+      "trial": 2,
+      "target": "0x807f7f8000ffff007f80807fff0000ff7f80807fff0000ff807f7f8000ffff00",
+      "results": {
+        "bdd": {
+          "gates": 47,
+          "us": 228.429
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 9719.896,
+          "checks": 2063
+        },
+        "multi": {
+          "gates": 47,
+          "us": 303.311,
+          "classes": 4
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 6,
+      "family": "random",
+      "trial": 0,
+      "target": "0x5dcc7b4bc074f63b",
+      "results": {
+        "bdd": {
+          "gates": 50,
+          "us": 121.57
+        },
+        "scoped": {
+          "gates": null,
+          "us": 1637.122,
+          "checks": 1592
+        },
+        "multi": {
+          "gates": 52,
+          "us": 163.673,
+          "classes": 8
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 4,
+      "family": "mixed",
+      "trial": 3,
+      "target": "0x9666",
+      "results": {
+        "bdd": {
+          "gates": 16,
+          "us": 32.147
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 281.138,
+          "checks": 37
+        },
+        "multi": {
+          "gates": 14,
+          "us": 56.374,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 4,
+      "family": "majority",
+      "trial": 0,
+      "target": "0xe880",
+      "results": {
+        "bdd": {
+          "gates": 13,
+          "us": 33.219
+        },
+        "scoped": {
+          "gates": null,
+          "us": 157.825,
+          "checks": 160
+        },
+        "multi": {
+          "gates": 17,
+          "us": 74.31,
+          "classes": 3
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "parity",
+      "trial": 0,
+      "target": "0x6996",
+      "results": {
+        "bdd": {
+          "gates": 19,
+          "us": 78.717
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 344.933,
+          "checks": 40
+        },
+        "multi": {
+          "gates": 17,
+          "us": 64.095,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "majority",
+      "trial": 3,
+      "target": "0xfffefee8fee8e880fee8e880e8808000fee8e880e8808000e880800080000000",
+      "results": {
+        "bdd": {
+          "gates": 53,
+          "us": 228.169
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13770.721,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 68,
+          "us": 378.242,
+          "classes": 5
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 6,
+      "family": "mixed",
+      "trial": 3,
+      "target": "0x69c3c3c3963c3c3c",
+      "results": {
+        "bdd": {
+          "gates": 39,
+          "us": 86.579
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1545.686,
+          "checks": 282
+        },
+        "multi": {
+          "gates": 28,
+          "us": 247.648,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 4,
+      "family": "parity",
+      "trial": 1,
+      "target": "0x6996",
+      "results": {
+        "bdd": {
+          "gates": 19,
+          "us": 39.899
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 346.926,
+          "checks": 40
+        },
+        "multi": {
+          "gates": 17,
+          "us": 55.693,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 6,
+      "family": "majority",
+      "trial": 1,
+      "target": "0xfee8e880e8808000",
+      "results": {
+        "bdd": {
+          "gates": 30,
+          "us": 76.184
+        },
+        "scoped": {
+          "gates": null,
+          "us": 2149.512,
+          "checks": 1984
+        },
+        "multi": {
+          "gates": 36,
+          "us": 136.853,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 6,
+      "family": "majority",
+      "trial": 0,
+      "target": "0xfee8e880e8808000",
+      "results": {
+        "bdd": {
+          "gates": 30,
+          "us": 89.242
+        },
+        "scoped": {
+          "gates": null,
+          "us": 2206.838,
+          "checks": 1984
+        },
+        "multi": {
+          "gates": 36,
+          "us": 125.576,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "majority",
+      "trial": 2,
+      "target": "0xfffefee8fee8e880fee8e880e8808000fee8e880e8808000e880800080000000",
+      "results": {
+        "bdd": {
+          "gates": 53,
+          "us": 276.491
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13488.763,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 68,
+          "us": 620.812,
+          "classes": 5
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "random",
+      "trial": 2,
+      "target": "0xe336",
+      "results": {
+        "bdd": {
+          "gates": 17,
+          "us": 48.833
+        },
+        "scoped": {
+          "gates": null,
+          "us": 143.072,
+          "checks": 140
+        },
+        "multi": {
+          "gates": 18,
+          "us": 140.268,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "mixed",
+      "trial": 3,
+      "target": "0x80007fff7fff80007fff800080007fff7fff800080007fff80007fff7fff8000",
+      "results": {
+        "bdd": {
+          "gates": 38,
+          "us": 210.873
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 9681.188,
+          "checks": 2447
+        },
+        "multi": {
+          "gates": 29,
+          "us": 282.67,
+          "classes": 2
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 6,
+      "family": "random",
+      "trial": 2,
+      "target": "0xd49a67bcdb5a1575",
+      "results": {
+        "bdd": {
+          "gates": 57,
+          "us": 113.899
+        },
+        "scoped": {
+          "gates": null,
+          "us": 1635.459,
+          "checks": 1592
+        },
+        "multi": {
+          "gates": 55,
+          "us": 166.828,
+          "classes": 8
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 8,
+      "family": "parity",
+      "trial": 3,
+      "target": "0x6996966996696996966969966996966996696996699696696996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 47,
+          "us": 216.371
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 54460.603,
+          "checks": 536
+        },
+        "multi": {
+          "gates": 45,
+          "us": 289.279,
+          "classes": 2
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 8,
+      "family": "parity",
+      "trial": 0,
+      "target": "0x6996966996696996966969966996966996696996699696696996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 47,
+          "us": 294.738
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 7316.676,
+          "checks": 536
+        },
+        "multi": {
+          "gates": 45,
+          "us": 295.519,
+          "classes": 2
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 8,
+      "family": "mixed",
+      "trial": 1,
+      "target": "0x870f78f078f0870f0f0ff0f0f0f00f0f78f0870f870f78f0f0f00f0f0f0ff0f0",
+      "results": {
+        "bdd": {
+          "gates": 56,
+          "us": 481.255
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 8662.755,
+          "checks": 1743
+        },
+        "multi": {
+          "gates": 41,
+          "us": 297.292,
+          "classes": 4
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 6,
+      "family": "majority",
+      "trial": 3,
+      "target": "0xfee8e880e8808000",
+      "results": {
+        "bdd": {
+          "gates": 30,
+          "us": 77.866
+        },
+        "scoped": {
+          "gates": null,
+          "us": 1964.758,
+          "checks": 1984
+        },
+        "multi": {
+          "gates": 36,
+          "us": 117.384,
+          "classes": 4
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "majority",
+      "trial": 3,
+      "target": "0xe880",
+      "results": {
+        "bdd": {
+          "gates": 13,
+          "us": 32.758
+        },
+        "scoped": {
+          "gates": null,
+          "us": 161.43,
+          "checks": 160
+        },
+        "multi": {
+          "gates": 17,
+          "us": 52.798,
+          "classes": 3
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 8,
+      "family": "random",
+      "trial": 3,
+      "target": "0x132506203ef7f127bfc8621cf222e5b2cb2b4668f2dda1efa21fed92e6555737",
+      "results": {
+        "bdd": {
+          "gates": 158,
+          "us": 406.934
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13610.854,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 159,
+          "us": 732.688,
+          "classes": 16
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 4,
+      "family": "parity",
+      "trial": 2,
+      "target": "0x6996",
+      "results": {
+        "bdd": {
+          "gates": 19,
+          "us": 37.716
+        },
+        "scoped": {
+          "gates": 3,
+          "us": 291.693,
+          "checks": 40
+        },
+        "multi": {
+          "gates": 17,
+          "us": 48.672,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 6,
+      "family": "parity",
+      "trial": 1,
+      "target": "0x6996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 33,
+          "us": 76.994
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1480.459,
+          "checks": 144
+        },
+        "multi": {
+          "gates": 31,
+          "us": 106.729,
+          "classes": 2
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 6,
+      "family": "mixed",
+      "trial": 1,
+      "target": "0x69a5a5a5965a5a5a",
+      "results": {
+        "bdd": {
+          "gates": 39,
+          "us": 88.081
+        },
+        "scoped": {
+          "gates": 5,
+          "us": 1431.436,
+          "checks": 218
+        },
+        "multi": {
+          "gates": 28,
+          "us": 108.531,
+          "classes": 4
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 4,
+      "family": "random",
+      "trial": 1,
+      "target": "0x7674",
+      "results": {
+        "bdd": {
+          "gates": 16,
+          "us": 62.242
+        },
+        "scoped": {
+          "gates": null,
+          "us": 167.88,
+          "checks": 140
+        },
+        "multi": {
+          "gates": 11,
+          "us": 78.016,
+          "classes": 4
+        }
+      },
+      "choice": "scoped"
+    },
+    {
+      "n": 8,
+      "family": "parity",
+      "trial": 1,
+      "target": "0x6996966996696996966969966996966996696996699696696996966996696996",
+      "results": {
+        "bdd": {
+          "gates": 47,
+          "us": 265.144
+        },
+        "scoped": {
+          "gates": 7,
+          "us": 7138.642,
+          "checks": 536
+        },
+        "multi": {
+          "gates": 45,
+          "us": 276.591,
+          "classes": 2
+        }
+      },
+      "choice": "multi"
+    },
+    {
+      "n": 8,
+      "family": "majority",
+      "trial": 1,
+      "target": "0xfffefee8fee8e880fee8e880e8808000fee8e880e8808000e880800080000000",
+      "results": {
+        "bdd": {
+          "gates": 53,
+          "us": 238.064
+        },
+        "scoped": {
+          "gates": null,
+          "us": 13429.506,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 68,
+          "us": 394.216,
+          "classes": 5
+        }
+      },
+      "choice": "bdd"
+    },
+    {
+      "n": 8,
+      "family": "random",
+      "trial": 1,
+      "target": "0xc38f9ac8ad5826efb050bada0bf204032b9522199f929083d972e8dc9ba7f2b5",
+      "results": {
+        "bdd": {
+          "gates": 158,
+          "us": 463.298
+        },
+        "scoped": {
+          "gates": null,
+          "us": 14104.417,
+          "checks": 12001
+        },
+        "multi": {
+          "gates": 156,
+          "us": 917.592,
+          "classes": 16
+        }
+      },
+      "choice": "multi"
+    }
+  ],
+  "totals": {
+    "bdd": 2113,
+    "scoped_fallback": 1423,
+    "multi": 2097,
+    "portfolio": 1840,
+    "oracle": 1684
+  },
+  "time_us": {
+    "bdd": 7100.384000000002,
+    "scoped_fallback": 256501.07,
+    "multi": 10774.391000000003,
+    "portfolio": 271798.50999999995,
+    "oracle": 21263.945
+  },
+  "choices": {
+    "bdd": 20,
+    "scoped": 18,
+    "multi": 10
+  }
+}

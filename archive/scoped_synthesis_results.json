@@ -1,0 +1,93 @@
+[
+  {
+    "task": "parity",
+    "n": 3,
+    "expression": "M(x0,M(x1,x2))",
+    "verified": true,
+    "checks": 20
+  },
+  {
+    "task": "parity",
+    "n": 4,
+    "expression": "M(x0,M(x1,M(x2,x3)))",
+    "verified": true,
+    "checks": 40
+  },
+  {
+    "task": "parity",
+    "n": 5,
+    "expression": "M(x0,M(x1,M(x2,M(x3,x4))))",
+    "verified": true,
+    "checks": 76
+  },
+  {
+    "task": "parity",
+    "n": 6,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,x5)))))",
+    "verified": true,
+    "checks": 144
+  },
+  {
+    "task": "parity",
+    "n": 7,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,M(x5,x6))))))",
+    "verified": true,
+    "checks": 276
+  },
+  {
+    "task": "parity",
+    "n": 8,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,M(x5,M(x6,x7)))))))",
+    "verified": true,
+    "checks": 536
+  },
+  {
+    "task": "parity",
+    "n": 9,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,M(x5,M(x6,M(x7,x8))))))))",
+    "verified": true,
+    "checks": 1052
+  },
+  {
+    "task": "parity",
+    "n": 10,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,M(x5,M(x6,M(x7,M(x8,x9)))))))))",
+    "verified": true,
+    "checks": 2080
+  },
+  {
+    "task": "parity",
+    "n": 11,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,M(x5,M(x6,M(x7,M(x8,M(x9,x10))))))))))",
+    "verified": true,
+    "checks": 4132
+  },
+  {
+    "task": "parity",
+    "n": 12,
+    "expression": "M(x0,M(x1,M(x2,M(x3,M(x4,M(x5,M(x6,M(x7,M(x8,M(x9,M(x10,x11)))))))))))",
+    "verified": true,
+    "checks": 8232
+  },
+  {
+    "task": "mixed",
+    "n": 6,
+    "expression": "M(AND(x4,x5),AND(M(x0,x1),OR(x2,x3)))",
+    "verified": true,
+    "checks": 1256
+  },
+  {
+    "task": "majority",
+    "n": 3,
+    "expression": null,
+    "verified": false,
+    "checks": 24
+  },
+  {
+    "task": "majority",
+    "n": 5,
+    "expression": null,
+    "verified": false,
+    "checks": 480
+  }
+]

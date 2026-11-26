@@ -1,0 +1,70 @@
+{
+  "candidate_count": 2261,
+  "beam_width": 24,
+  "results": {
+    "majority3": {
+      "encoder": [
+        "NAND(NAND(x2,x3),NAND(x4,NAND(NAND(x2,x2),NAND(x3,x3))))",
+        "NAND(NAND(x2,x3),NAND(x5,NAND(NAND(x2,x2),NAND(x3,x3))))",
+        "NAND(NAND(x3,x4),NAND(x5,NAND(NAND(x3,x3),NAND(x4,x4))))"
+      ],
+      "description_bits": 102,
+      "train_score": 0.23,
+      "coverage": {
+        "majority3": 4,
+        "parity": 0,
+        "conjunction": 0,
+        "single": 0
+      },
+      "evaluations": 110335
+    },
+    "parity": {
+      "encoder": [
+        "NAND(NAND(x0,x2),NAND(NAND(x0,x0),NAND(x2,x2)))",
+        "NAND(NAND(x0,x3),NAND(NAND(x0,x0),NAND(x3,x3)))",
+        "NAND(NAND(x2,x4),NAND(NAND(x2,x2),NAND(x4,x4)))"
+      ],
+      "description_bits": 87,
+      "train_score": 0.43166666666666664,
+      "coverage": {
+        "majority3": 0,
+        "parity": 6,
+        "conjunction": 0,
+        "single": 0
+      },
+      "evaluations": 110379
+    },
+    "conjunction": {
+      "encoder": [
+        "NAND(x0,x4)",
+        "NAND(x1,x2)",
+        "NAND(x3,x4)"
+      ],
+      "description_bits": 27,
+      "train_score": 0.23666666666666666,
+      "coverage": {
+        "majority3": 0,
+        "parity": 0,
+        "conjunction": 3,
+        "single": 0
+      },
+      "evaluations": 110347
+    },
+    "single": {
+      "encoder": [
+        "x0",
+        "x1",
+        "x3"
+      ],
+      "description_bits": 12,
+      "train_score": 0.5283333333333333,
+      "coverage": {
+        "majority3": 1,
+        "parity": 3,
+        "conjunction": 3,
+        "single": 3
+      },
+      "evaluations": 110320
+    }
+  }
+}

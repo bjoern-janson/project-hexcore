@@ -1,0 +1,14 @@
+{
+  "frontier": {
+    "0": 10,
+    "1": 6,
+    "2": 4,
+    "3": 4,
+    "4": 6
+  },
+  "switch": "2/13",
+  "raw_probability": "5/13",
+  "worst_case": "5/39",
+  "simulation_single": 0.129375,
+  "simulation_pair": 0.128485
+}

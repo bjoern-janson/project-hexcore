@@ -1,0 +1,87 @@
+{
+  "certificate": {
+    "rows": [
+      0,
+      2
+    ],
+    "relation": [
+      0,
+      2,
+      3
+    ],
+    "allowed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      11,
+      13
+    ]
+  },
+  "results": [
+    {
+      "n": 4,
+      "witness": [
+        1,
+        3
+      ],
+      "row_pairs_checked": 18,
+      "forward_gate_evals": 10000,
+      "forward_closed": false,
+      "forward_seconds": 0.003059190999920247,
+      "certified": true
+    },
+    {
+      "n": 6,
+      "witness": [
+        1,
+        3
+      ],
+      "row_pairs_checked": 66,
+      "forward_gate_evals": 10000,
+      "forward_closed": false,
+      "forward_seconds": 0.004419490999907794,
+      "certified": true
+    },
+    {
+      "n": 8,
+      "witness": [
+        1,
+        3
+      ],
+      "row_pairs_checked": 258,
+      "forward_gate_evals": 10000,
+      "forward_closed": false,
+      "forward_seconds": 0.004278692000070805,
+      "certified": true
+    },
+    {
+      "n": 10,
+      "witness": [
+        1,
+        3
+      ],
+      "row_pairs_checked": 1026,
+      "forward_gate_evals": 10000,
+      "forward_closed": false,
+      "forward_seconds": 0.007846076999953766,
+      "certified": true
+    },
+    {
+      "n": 12,
+      "witness": [
+        1,
+        3
+      ],
+      "row_pairs_checked": 4098,
+      "forward_gate_evals": 10000,
+      "forward_closed": false,
+      "forward_seconds": 0.02291901300009158,
+      "certified": true
+    }
+  ]
+}
