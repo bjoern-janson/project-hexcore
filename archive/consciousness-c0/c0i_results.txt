@@ -1,0 +1,41 @@
+C0i exact enumeration; 3 initial diagnostic probes + 1 post-transfer probe
+Expected fraction of two target bits matched; oracle = 0.7; ties random.
+
+stable
+fixed                 50.00000%  exact=1/2
+frozen                64.36000%  exact=1609/2500
+reset                 58.00000%  exact=29/50
+adaptive_uncued       65.18000%  exact=3259/5000
+cue_model             65.90000%  exact=659/1000
+generic               65.90000%  exact=659/1000
+oracle                70.00000%  exact=7/10
+
+transfer 80%, calibrated cue
+fixed                 50.00000%  exact=1/2
+frozen                41.38400%  exact=5173/12500
+reset                 58.00000%  exact=29/50
+adaptive_uncued       53.69200%  exact=13423/25000
+cue_model             62.30800%  exact=15577/25000
+generic               62.30800%  exact=15577/25000
+oracle                70.00000%  exact=7/10
+
+transfer 80%, misleading cue
+fixed                 50.00000%  exact=1/2
+frozen                41.38400%  exact=5173/12500
+reset                 58.00000%  exact=29/50
+adaptive_uncued       53.69200%  exact=13423/25000
+cue_model             45.54000%  exact=2277/5000
+generic               45.54000%  exact=2277/5000
+oracle                70.00000%  exact=7/10
+
+certain transfer
+fixed                 50.00000%  exact=1/2
+frozen                35.64000%  exact=891/2500
+reset                 58.00000%  exact=29/50
+adaptive_uncued       50.82000%  exact=2541/5000
+cue_model             65.90000%  exact=659/1000
+generic               65.90000%  exact=659/1000
+oracle                70.00000%  exact=7/10
+
+Exact posterior equivalence and channel-permutation checks passed for every enumerated case.
+Physical-host label independent of all dynamics: likelihood ratio 1, posterior 1/2, MI=0 by construction.

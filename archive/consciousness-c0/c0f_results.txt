@@ -1,0 +1,22 @@
+Exploratory C0f; paired histories, iid fair goals; z=a XOR m XOR e; e~Bernoulli(.1); initial m fair. Filter hazard .04 for every scenario. N=2000 per scenario, T=96. Causal and generic filters mathematically equivalent. CI paired episode normal approximation; no tuning.
+
+stable matched causal/generic reward traces 2000 / 2000
+fixed              reward=0.496021 loss=1.000000 delta_vs_last=-0.323016 CI=[-0.340613,-0.305418] 
+last observation   reward=0.819036 loss=0.717703 delta_vs_last=+0.000000 CI=[+0.000000,+0.000000] 
+causal model       reward=0.885687 loss=0.523435 delta_vs_last=+0.066651 CI=[+0.065426,+0.067876] 
+generic predictor  reward=0.885687 loss=0.523435 delta_vs_last=+0.066651 CI=[+0.065426,+0.067876] 
+oracle             reward=0.901656 loss=0.463745 delta_vs_last=+0.082620 CI=[+0.081486,+0.083754] 
+
+single switch matched causal/generic reward traces 2000 / 2000
+fixed              reward=0.498010 loss=1.000000 delta_vs_last=-0.312120 CI=[-0.316443,-0.307796] post12=0.499417
+last observation   reward=0.810130 loss=0.746117 delta_vs_last=+0.000000 CI=[+0.000000,+0.000000] post12=0.767208
+causal model       reward=0.865344 loss=0.563314 delta_vs_last=+0.055214 CI=[+0.054002,+0.056426] post12=0.740917
+generic predictor  reward=0.865344 loss=0.563314 delta_vs_last=+0.055214 CI=[+0.054002,+0.056426] post12=0.740917
+oracle             reward=0.900125 loss=0.468599 delta_vs_last=+0.089995 CI=[+0.088851,+0.091138] post12=0.900583
+
+Markov switching matched causal/generic reward traces 2000 / 2000
+fixed              reward=0.501057 loss=1.000000 delta_vs_last=-0.289141 CI=[-0.297602,-0.280680] 
+last observation   reward=0.790198 loss=0.809796 delta_vs_last=+0.000000 CI=[+0.000000,+0.000000] 
+causal model       reward=0.820234 loss=0.648713 delta_vs_last=+0.030036 CI=[+0.028553,+0.031520] 
+generic predictor  reward=0.820234 loss=0.648713 delta_vs_last=+0.030036 CI=[+0.028553,+0.031520] 
+oracle             reward=0.899495 loss=0.470597 delta_vs_last=+0.109297 CI=[+0.107957,+0.110637] 

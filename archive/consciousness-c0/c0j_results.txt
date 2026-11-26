@@ -1,0 +1,18 @@
+C0j exact finite assay; output noise 10%, randomized reset; one final protected memory read.
+route 0 P(correct) passive/reset0/reset1: 9/10 1/2 9/10
+route 1 P(correct) passive/reset0/reset1: 9/10 9/10 1/2
+passive n=0 location=50.000000% (1/2) | task=70.000000% (7/10) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=100.000000% (1) | frozen=70.000000% (7/10)
+active n=0 location=50.000000% (1/2) | task=70.000000% (7/10) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=100.000000% (1) | frozen=70.000000% (7/10)
+passive n=2 location=50.000000% (1/2) | task=70.000000% (7/10) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=100.000000% (1) | frozen=70.000000% (7/10)
+active n=2 location=70.000000% (7/10) | task=78.000000% (39/50) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=50.000000% (1/2) | frozen=78.000000% (39/50)
+passive n=4 location=50.000000% (1/2) | task=70.000000% (7/10) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=100.000000% (1) | frozen=70.000000% (7/10)
+active n=4 location=80.000000% (4/5) | task=82.000000% (41/50) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=29.500000% (59/200) | frozen=82.000000% (41/50)
+passive n=8 location=50.000000% (1/2) | task=70.000000% (7/10) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=100.000000% (1) | frozen=70.000000% (7/10)
+active n=8 location=89.750000% (359/400) | task=85.900000% (859/1000) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=13.303750% (10643/80000) | frozen=85.900000% (859/1000)
+passive n=12 location=50.000000% (1/2) | task=70.000000% (7/10) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=100.000000% (1) | frozen=70.000000% (7/10)
+active n=12 location=94.312625% (754501/800000) | task=87.725050% (1754501/2000000) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=6.943094% (222179/3200000) | frozen=87.725050% (1754501/2000000)
+transfer p=1, cue=0 location=10.250000% (41/400) | task=54.100000% (541/1000) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=13.303750% (10643/80000) | frozen=54.100000% (541/1000)
+transfer p=1, cue=1 location=89.750000% (359/400) | task=85.900000% (859/1000) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=13.303750% (10643/80000) | frozen=54.100000% (541/1000)
+transfer p=4/5, cue=4/5 location=73.850000% (1477/2000) | task=79.540000% (3977/5000) | blind=70.000000% (7/10) | oracle=90.000000% (9/10) | ties=13.303750% (10643/80000) | frozen=60.460000% (3023/5000)
+Exact generic posterior equivalence checked on every history prefix.
+Passive observational equivalence and channel relabeling checks passed.

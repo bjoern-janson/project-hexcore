@@ -1,0 +1,21 @@
+Budget: 2 gate invocations; old NAND-only closure: 23 of 256
+history truth table | NAND formula cost | staged size | apparent gain | expanded-cost gain | replay-shadow gain
+0000  0  23   0   0   0
+0001  4  44  21   0   0
+0010  3  48  25   0   0
+0011  1  23   0   0   0
+0100  3  48  25   0   0
+0101  1  23   0   0   0
+0110  5  36  13   0   0
+0111  1  23   0   0   0
+1000  2  34  11   0   0
+1001  5  42  19   0   0
+1010  0  23   0   0   0
+1011  2  51  28   0   0
+1100  0  23   0   0   0
+1101  2  51  28   0   0
+1110  3  36  13   0   0
+1111  0  23   0   0   0
+Histories with apparent gain: 9 /16; total gain across histories: 183
+Three-bit parity: old minimum formula cost 14 ; installed XOR cost 2 ; exact inlining cost of XOR(XOR(x,y),z) 20
+All budget-2 expanded-cost and same-evidence replay-shadow equality checks passed.

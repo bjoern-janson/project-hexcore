@@ -1,0 +1,21 @@
+C0n exploratory; 2000 seeds; 2 local triplets per seed; 128 training events per triplet; exact held-out expectations. CI across seed means only.
+quality=0.9 trained/test matched
+integrate (0.5, 0.5, 0.0)
+hold (0.8000000000000003, 0.9999999999999996, 0.9999999999999996)
+oracle_cue (0.8499999999999999, 0.9499999999999997, 0.5)
+learned utility, accuracy, hold rate: 0.847512 [0.847177, 0.847848] 0.952487 [0.952152, 0.952823] 0.524875 [0.521522, 0.528228]
+quality=0.5 trained/test matched
+integrate (0.5, 0.5, 0.0)
+hold (0.7999999999999999, 0.9999999999999996, 0.9999999999999996)
+oracle_cue (0.7999999999999999, 0.9999999999999996, 0.9999999999999996)
+learned utility, accuracy, hold rate: 0.799925 [0.799821, 0.800029] 0.999875 [0.999702, 1.000048] 0.999750 [0.999404, 1.000096]
+quality=0.1 trained/test matched
+integrate (0.5000000000000001, 0.5000000000000001, 0.0)
+hold (0.8000000000000004, 0.9999999999999997, 0.9999999999999997)
+oracle_cue (0.8499999999999999, 0.9499999999999997, 0.5000000000000001)
+learned utility, accuracy, hold rate: 0.847625 [0.847296, 0.847954] 0.952375 [0.952046, 0.952704] 0.523750 [0.520463, 0.527037]
+cue reversal: training quality=.9, testing quality=.1; additional training retains old counts
+0 0.467413 [0.465065, 0.469760]
+128 0.800000 [0.800000, 0.800000]
+512 0.801613 [0.801341, 0.801884]
+Matched generic contextual bandit is the exact same algorithm; no architectural advantage tested.

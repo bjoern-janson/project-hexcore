@@ -1,0 +1,21 @@
+C0g exploratory paired assay; 4000 independent histories per condition, 8 training steps; exact expected held-out reward per history, fair other action; noise .1; no test updates.
+synchronous identification 0.5 matched policies 4000 / 4000
+fixed route: reward=0.500700; delta vs table=0.001500; 95% CI [-0.005920,0.008920]
+generic marginal table: reward=0.499200; delta vs table=0.000000; 95% CI [0.000000,0.000000]
+explicit attribution: reward=0.500700; delta vs table=0.001500; 95% CI [-0.005920,0.008920]
+generic structured: reward=0.500700; delta vs table=0.001500; 95% CI [-0.005920,0.008920]
+oracle: reward=0.700000; delta vs table=0.200800; 95% CI [0.194601,0.206999]
+independent identification 0.990125 matched policies 4000 / 4000
+fixed route: reward=0.501800; delta vs table=-0.184800; 95% CI [-0.191189,-0.178411]
+generic marginal table: reward=0.686600; delta vs table=0.000000; 95% CI [0.000000,0.000000]
+explicit attribution: reward=0.695900; delta vs table=0.009300; 95% CI [0.007199,0.011401]
+generic structured: reward=0.695900; delta vs table=0.009300; 95% CI [0.007199,0.011401]
+oracle: reward=0.700000; delta vs table=0.013400; 95% CI [0.011169,0.015631]
+opposed identification 1 matched policies 4000 / 4000
+fixed route: reward=0.497200; delta vs table=-0.202800; 95% CI [-0.208998,-0.196602]
+generic marginal table: reward=0.700000; delta vs table=0.000000; 95% CI [0.000000,0.000000]
+explicit attribution: reward=0.700000; delta vs table=0.000000; 95% CI [0.000000,0.000000]
+generic structured: reward=0.700000; delta vs table=0.000000; 95% CI [0.000000,0.000000]
+oracle: reward=0.700000; delta vs table=0.000000; 95% CI [0.000000,0.000000]
+KL 0 0 0.0
+KL 0 1 5.0718800023077

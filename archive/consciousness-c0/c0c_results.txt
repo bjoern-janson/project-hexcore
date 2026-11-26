@@ -1,0 +1,7 @@
+M=6 per action; exact count-history distribution; held-out inverse log loss bits/action
+XOR {'trigger': 0.987305, 'gated_any': 0.987305, 'gated_target': 0.962891, 'always_any': 1.0, 'always_target': 0.96875, 'marginal_loss': 1.005159, 'joint_loss': 0.35385, 'gated_loss': 0.225189, 'always_loss': 0.214578}
+XNOR {'trigger': 0.987305, 'gated_any': 0.987305, 'gated_target': 0.962891, 'always_any': 1.0, 'always_target': 0.96875, 'marginal_loss': 1.005159, 'joint_loss': 0.35385, 'gated_loss': 0.225189, 'always_loss': 0.214578}
+independent null {'trigger': 0.014228, 'gated_any': 0.000582, 'gated_target': 0.0, 'always_any': 0.00079, 'always_target': 0.0, 'marginal_loss': 1.005143, 'joint_loss': 1.07437, 'gated_loss': 1.005491, 'always_loss': 1.005524}
+correlated null {'trigger': 0.0, 'gated_any': 0.0, 'gated_target': 0.0, 'always_any': 0.000488, 'always_target': 0.0, 'marginal_loss': 1.00258, 'joint_loss': 1.042906, 'gated_loss': 1.00258, 'always_loss': 1.00258}
+direct X {'trigger': 0.0, 'gated_any': 0.0, 'gated_target': 1.0, 'always_any': 0.046387, 'always_target': 0.953613, 'marginal_loss': 0.192645, 'joint_loss': 0.35385, 'gated_loss': 0.192645, 'always_loss': 0.225201}
+noisy XOR 10% {'trigger': 0.677614, 'gated_any': 0.282828, 'gated_target': 0.271949, 'always_any': 0.289072, 'always_target': 0.273604, 'marginal_loss': 1.005159, 'joint_loss': 0.62224, 'gated_loss': 0.862324, 'always_loss': 0.859042}

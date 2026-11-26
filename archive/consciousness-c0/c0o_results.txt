@@ -1,0 +1,21 @@
+200 seeds, 4000 training events per arm, cost 0.15 per message; shared payoff; exact evaluation of 8 inputs per seed.
+learn 0.782813 0.910312 0.850000
+always 0.700000 1.000000 2.000000
+never 0.750000 0.750000 0.000000
+reversal0 0.390937 0.518437 0.850000
+reversal500 0.646125 0.680625 0.230000
+reversal2000 0.749500 0.790000 0.270000
+both send joint and neither local 64 / 200
+paired advantage vs always 0.08281250000000004 (0.07486232109055334, 0.09076267890944674)
+paired advantage vs never 0.032812499999999994 (0.0248623210905533, 0.04076267890944669)
+oracle gate policies (local send count, joint send count):
+0 0 0.75
+0 1 0.8
+0 2 0.85
+1 0 0.675
+1 1 0.7250000000000001
+1 2 0.775
+2 0 0.6
+2 1 0.65
+2 2 0.7
+unrestricted silence coding oracle: local no messages, joint send iff bit=1; utility 0.925

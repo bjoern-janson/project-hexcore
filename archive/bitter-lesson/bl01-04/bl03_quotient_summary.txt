@@ -1,0 +1,5 @@
+n 6 queries [(64, 64), (16, 64), (4, 64)] lifetime butterflies 228 576 mean shift error 0.5 mean miss16 1.52587890625e-05
+n 8 queries [(256, 256), (64, 256), (16, 256)] lifetime butterflies 1248 3072 mean shift error 0.4765625 mean miss16 4.2805399587226955e-05
+n 10 queries [(1024, 1024), (256, 1024), (64, 1024)] lifetime butterflies 6336 15360 mean shift error 0.478515625 mean miss16 3.3515338180629984e-05
+n 12 queries [(4096, 4096), (1024, 4096), (256, 4096)] lifetime butterflies 30720 73728 mean shift error 0.479248046875 mean miss16 3.226384501262766e-05
+verified 192 paired exact support spaces; external full-domain checks 261120
