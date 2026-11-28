@@ -8,11 +8,16 @@ The question is whether memory, computation, learning and adaptation can arise f
 
 ## Start here
 
+**New reading path:** [Geometry of possible interactions — cross-lineage synthesis](docs/SYNTHESIS.md) · [Rediscovery and translation ledger](docs/REDISCOVERY_LEDGER.md) · [Proposed bridge assay](docs/INTERACTION_TEST.md)
+
+
 - [Research lineage and negative results](docs/LINEAGE.md)
 - [Candidate medium and immutable experimental boundary](docs/MEDIUM.md)
 - [Next experiment and defeat conditions](docs/PROTOCOL.md)
 - [Adversarial critique](docs/CRITIQUE.md)
 - [Artifact archive and reproduction notes](archive/README.md)
+- [Geometry, correction certificates and streamed reality](archive/geometry-and-reality/README.md)
+- [C0 / Bitter Lesson lineages](archive/CHAT_LINEAGE.md)
 
 The project draws inspiration from non-equilibrium dynamics, improvisational jazz, echolocation, flow and recurrent generative imagery. These are analogies, not physical equivalences or clinical claims. The Hexcore from Arcane inspired the working name, not the scientific mechanism.
 

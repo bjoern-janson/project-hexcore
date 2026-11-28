@@ -7,3 +7,7 @@ The artifact manifest records which files could be transferred. The original art
 ## Additional historical lineages
 
 See [CHAT_LINEAGE.md](CHAT_LINEAGE.md) for C0–C0p and BL-01–09, [CHAT_EVIDENCE_LEDGER.md](CHAT_EVIDENCE_LEDGER.md) for claim ceilings, and [CHAT_GIT_BLOB_SHA1SUMS.txt](CHAT_GIT_BLOB_SHA1SUMS.txt) for imported original-file identities. The initial 42-experiment archive stays in place. BL-05–09 has a [separate custody record](bitter-lesson/bl05-09/CUSTODY.md) recording the completed, byte-verified binary transfer and direct-file extraction.
+
+## Geometry and streamed reality
+
+See [geometry-and-reality/README.md](geometry-and-reality/README.md) for eight additional Python experiments, eight result files, four mathematical notes and the verified original-file manifest. These extend the historical research with budgeted discovery, commitment, reversible and time-varying correction, certificate handoffs, and interaction-driven simulation. [SYNTHESIS.md](../docs/SYNTHESIS.md) connects these to earlier lineages without promoting them to new validated claims.
