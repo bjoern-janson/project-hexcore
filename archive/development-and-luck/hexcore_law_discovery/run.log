@@ -1,0 +1,11 @@
+library {'raw_by_nodes': {1: 5, 3: 43, 5: 606, 7: 9220}, 'attempts_by_nodes': {3: 135, 5: 2150, 7: 39631}, 'invalid_by_nodes': {5: 196, 7: 4709}, 'profile_count': 2280, 'profile_array_bytes': 287280, 'descriptions_utf8_bytes': 31639, 'seconds': 0.3249432570009958, 'scalar_eval_upper_proxy': 2640708}
+thirds in True active 48 48 (3, '(n//3)') passive 48.0 48.0 ambiguity 47 fraction 48
+quarters in True active 48 48 (3, '(n//4)') passive 48.0 48.0 ambiguity 47 fraction 48
+two_fifths in True active 48 48 (7, '((2*n)//(1+4))') passive 34.75 34.69 ambiguity 45 fraction 48
+alternating in True active 48 48 (7, '(n//(2+(n%2)))') passive 32.25 25.12 ambiguity 0 fraction 24
+capped_thirds in True active 48 48 (5, 'min(3,(n//3))') passive 31.5 14.0 ambiguity 48 fraction 0
+modular in True active 48 48 (7, '(n//(1+(n%3)))') passive 26.03 16.25 ambiguity 0 fraction 32
+sqrt in False active 3 0 (5, 'max(3,(n//4))') passive 2.34 0.62 ambiguity 48 fraction 3
+log2 in False active 3 1 (5, 'max(3,(n//4))') passive 2.16 0.53 ambiguity 48 fraction 3
+alias_halves in False active 0 0 (3, '(n//3)') passive 0.0 0.0 ambiguity 47 fraction 0
+alias_quarters in False active 0 0 (3, '(n//3)') passive 0.0 0.0 ambiguity 47 fraction 0

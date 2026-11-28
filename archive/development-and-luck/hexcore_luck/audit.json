@@ -1,0 +1,8 @@
+{
+  "future_runs": 960,
+  "future_nand_invocations": 11673600,
+  "prehistory_nand_invocations_per_main_and_followup": 102400,
+  "template_gate_and_output_checks": 9785,
+  "all_assertions_passed": true,
+  "note": "Historical libraries regenerated for this audit; their additional replay work is not counted as original search."
+}

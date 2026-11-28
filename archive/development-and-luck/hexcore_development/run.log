@@ -1,0 +1,10 @@
+completed 4 seeds
+completed 8 seeds
+completed 12 seeds
+completed 16 seeds
+completed 20 seeds
+completed 24 seeds
+edge_7 [('fragment_library', 20.46), ('size_grammar', 21.21), ('pooled_grammar', 38.58), ('neutral_grammar', 16.75), ('pooled4', 26.54), ('uniform', 13.04), ('fixed_mixture', 20.21), ('uniform_lifetime', 14.08), ('mixture_lifetime', 22.12)]
+edge_8 [('fragment_library', 1.75), ('size_grammar', 2.54), ('pooled_grammar', 6.75), ('neutral_grammar', 1.83), ('pooled4', 3.5), ('uniform', 1.46), ('fixed_mixture', 2.67), ('uniform_lifetime', 1.46), ('mixture_lifetime', 2.83)]
+balanced_7 [('fragment_library', 40.62), ('size_grammar', 39.62), ('pooled_grammar', 63.92), ('neutral_grammar', 26.12), ('pooled4', 62.88), ('uniform', 14.71), ('fixed_mixture', 59.42), ('uniform_lifetime', 15.62), ('mixture_lifetime', 60.29)]
+balanced_8 [('fragment_library', 17.79), ('size_grammar', 16.58), ('pooled_grammar', 63.96), ('neutral_grammar', 9.12), ('pooled4', 61.79), ('uniform', 1.62), ('fixed_mixture', 60.25), ('uniform_lifetime', 1.62), ('mixture_lifetime', 60.75)]

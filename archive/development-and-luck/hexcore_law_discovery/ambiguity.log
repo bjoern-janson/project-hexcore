@@ -1,0 +1,11 @@
+{'library_profiles': 2280, 'transcript_classes': 1521, 'singleton_classes': 1342, 'ambiguous_profiles': 938, 'largest_class_size': 173, 'uniform_prior_optimal_exact_profile_accuracy': 0.6671052631578948, 'alias_pair_checks': [{'pair': ['thirds', 'alias_halves'], 'equal_all_training': True, 'different_heldout_sizes': 48}, {'pair': ['thirds', 'alias_quarters'], 'equal_all_training': True, 'different_heldout_sizes': 48}, {'pair': ['alias_halves', 'alias_quarters'], 'equal_all_training': True, 'different_heldout_sizes': 48}], 'alias_uniform_prior_root_accuracy_upper_bound': 0.3333333333333333}
+thirds all 14 active 14 queries [4, 5, 16, 9, 7] fit work 13463 passive 4269 frac trees 48 n17 True
+quarters all 15 active 17 queries [4, 5, 16, 11, 15] fit work 14198 passive 4401 frac trees 48 n17 True
+two_fifths all 1 active 4 queries [4, 5, 14, 10, 12] fit work 6802 passive 3659 frac trees 48 n17 True
+alternating all 1 active 1 queries [4, 5, 16, 11, 7] fit work 5528 passive 3668 frac trees 4 n17 True
+capped_thirds all 2 active 2 queries [4, 5, 16, 11, 8] fit work 14162 passive 4294 frac trees 0 n17 True
+modular all 1 active 1 queries [4, 5, 16, 11, 7] fit work 5528 passive 3678 frac trees 4 n17 True
+sqrt all 0 active 13 queries [4, 5, 16, 14, 10] fit work 18764 passive 4798 frac trees 0 n17 False
+log2 all 1 active 13 queries [4, 5, 16, 14, 10] fit work 18764 passive 4802 frac trees 0 n17 False
+alias_halves all 14 active 14 queries [4, 5, 16, 9, 7] fit work 13463 passive 4269 frac trees 0 n17 False
+alias_quarters all 14 active 14 queries [4, 5, 16, 9, 7] fit work 13463 passive 4269 frac trees 0 n17 False
