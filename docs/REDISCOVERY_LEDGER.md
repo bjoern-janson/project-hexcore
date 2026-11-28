@@ -25,6 +25,8 @@ Purpose: absorb established science before claiming novelty. This is a working l
 | Non-equilibrium dynamics / artificial life | Dissipative organization and adaptation through interaction. | Constant flux and a common mutable medium. | Inspiration; no physical-law equivalence |
 | Corrigibility / external governance | Maintaining the ability of external agents to intervene or shut down. | Immutable experimental boundary, correction deadline, valve vs repair. | Related formalism; shutdown is not repair |
 | P versus NP / resource complexity | Efficient verification does not establish efficient solving. | C0p and BL audits prevent hidden search or macro costs. | Boundary condition, not a solution to P vs NP |
+| Null-cone quantum gravity / causal-diamond gluing (Chandrasekaran, 2026 preprint) | Proposed finite-dimensionality under bounded gravitational clock and cut/uncut consistency; technical claim not independently validated. | Boundary information required for coherent composition of local simulations; [reading note and classical test](CAUSAL_BOUNDARY.md). | Analogy; NO TRANSLATION EARNED |
+| Nonnegative rank / latent-variable common information | Finite shared-state cardinality for conditional-independent local generation. | [Exact pairwise-invisible boundary-cost separation and approximation frontier](CAUSAL_BOUNDARY.md). | Standard machinery, scoped example; no priority claim |
 
 ## Primary reading and cross-checks
 
@@ -33,6 +35,8 @@ Purpose: absorb established science before claiming novelty. This is a working l
 - Shalizi & Crutchfield, [Computational Mechanics: Pattern and Prediction, Structure and Simplicity](https://arxiv.org/abs/cond-mat/9907176) (2001); [Information Bottlenecks, Causal States, and Statistical Relevance Bases](https://doi.org/10.1142/S0219525902000481) (2002).
 - Friston et al., [Action and behavior: a free-energy formulation](https://doi.org/10.1007/s00422-010-0364-z) (2010); Friston, [The free-energy principle: a unified brain theory?](https://doi.org/10.1038/nrn2787) (2010). These are theories, not evidence for a Hexcore mechanism.
 - The original C0 and BL evidence and claim ceilings: [CHAT_EVIDENCE_LEDGER.md](../archive/CHAT_EVIDENCE_LEDGER.md).
+
+- Chandrasekaran, [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924v1) (2026 preprint), §2, §5.2 and Appendix D.2; see [CAUSAL_BOUNDARY.md](CAUSAL_BOUNDARY.md) for claim ceilings and open audit questions.
 
 ## Promotion rule
 

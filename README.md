@@ -8,6 +8,8 @@ The question is whether memory, computation, learning and adaptation can arise f
 
 ## Start here
 
+- [Causal boundaries and the cost of consistency](docs/CAUSAL_BOUNDARY.md): null-cone gravity reading and exact classical boundary-information example.
+
 **New reading path:** [Geometry of possible interactions — cross-lineage synthesis](docs/SYNTHESIS.md) · [Rediscovery and translation ledger](docs/REDISCOVERY_LEDGER.md) · [Proposed bridge assay](docs/INTERACTION_TEST.md)
 
 

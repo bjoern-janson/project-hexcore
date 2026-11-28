@@ -1,0 +1,602 @@
+[
+  {
+    "m": 3,
+    "worlds": 8,
+    "pairwise_checks": 15,
+    "exact_joint_rank": 8,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 4,
+    "worlds": 16,
+    "pairwise_checks": 28,
+    "exact_joint_rank": 16,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 5,
+    "worlds": 32,
+    "pairwise_checks": 45,
+    "exact_joint_rank": 32,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 6,
+    "worlds": 64,
+    "pairwise_checks": 66,
+    "exact_joint_rank": 64,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 7,
+    "worlds": 128,
+    "pairwise_checks": 91,
+    "exact_joint_rank": 128,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.0078125,
+        "total_variation": 0.9921875
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 7,
+        "boundary_states": 128,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 8,
+    "worlds": 256,
+    "pairwise_checks": 120,
+    "exact_joint_rank": 256,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.00390625,
+        "total_variation": 0.99609375
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.0078125,
+        "total_variation": 0.9921875
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 7,
+        "boundary_states": 128,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 8,
+        "boundary_states": 256,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 9,
+    "worlds": 512,
+    "pairwise_checks": 153,
+    "exact_joint_rank": 512,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.001953125,
+        "total_variation": 0.998046875
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.00390625,
+        "total_variation": 0.99609375
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.0078125,
+        "total_variation": 0.9921875
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 7,
+        "boundary_states": 128,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 8,
+        "boundary_states": 256,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 9,
+        "boundary_states": 512,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 10,
+    "worlds": 1024,
+    "pairwise_checks": 190,
+    "exact_joint_rank": 1024,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.0009765625,
+        "total_variation": 0.9990234375
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.001953125,
+        "total_variation": 0.998046875
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.00390625,
+        "total_variation": 0.99609375
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.0078125,
+        "total_variation": 0.9921875
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 7,
+        "boundary_states": 128,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 8,
+        "boundary_states": 256,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 9,
+        "boundary_states": 512,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 10,
+        "boundary_states": 1024,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 11,
+    "worlds": 2048,
+    "pairwise_checks": 231,
+    "exact_joint_rank": 2048,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.00048828125,
+        "total_variation": 0.99951171875
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.0009765625,
+        "total_variation": 0.9990234375
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.001953125,
+        "total_variation": 0.998046875
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.00390625,
+        "total_variation": 0.99609375
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.0078125,
+        "total_variation": 0.9921875
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 7,
+        "boundary_states": 128,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 8,
+        "boundary_states": 256,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 9,
+        "boundary_states": 512,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 10,
+        "boundary_states": 1024,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 11,
+        "boundary_states": 2048,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  },
+  {
+    "m": 12,
+    "worlds": 4096,
+    "pairwise_checks": 276,
+    "exact_joint_rank": 4096,
+    "independent_joint_rank": 1,
+    "cases": [
+      {
+        "boundary_bits": 0,
+        "boundary_states": 1,
+        "match_probability": 0.000244140625,
+        "total_variation": 0.999755859375
+      },
+      {
+        "boundary_bits": 1,
+        "boundary_states": 2,
+        "match_probability": 0.00048828125,
+        "total_variation": 0.99951171875
+      },
+      {
+        "boundary_bits": 2,
+        "boundary_states": 4,
+        "match_probability": 0.0009765625,
+        "total_variation": 0.9990234375
+      },
+      {
+        "boundary_bits": 3,
+        "boundary_states": 8,
+        "match_probability": 0.001953125,
+        "total_variation": 0.998046875
+      },
+      {
+        "boundary_bits": 4,
+        "boundary_states": 16,
+        "match_probability": 0.00390625,
+        "total_variation": 0.99609375
+      },
+      {
+        "boundary_bits": 5,
+        "boundary_states": 32,
+        "match_probability": 0.0078125,
+        "total_variation": 0.9921875
+      },
+      {
+        "boundary_bits": 6,
+        "boundary_states": 64,
+        "match_probability": 0.015625,
+        "total_variation": 0.984375
+      },
+      {
+        "boundary_bits": 7,
+        "boundary_states": 128,
+        "match_probability": 0.03125,
+        "total_variation": 0.96875
+      },
+      {
+        "boundary_bits": 8,
+        "boundary_states": 256,
+        "match_probability": 0.0625,
+        "total_variation": 0.9375
+      },
+      {
+        "boundary_bits": 9,
+        "boundary_states": 512,
+        "match_probability": 0.125,
+        "total_variation": 0.875
+      },
+      {
+        "boundary_bits": 10,
+        "boundary_states": 1024,
+        "match_probability": 0.25,
+        "total_variation": 0.75
+      },
+      {
+        "boundary_bits": 11,
+        "boundary_states": 2048,
+        "match_probability": 0.5,
+        "total_variation": 0.5
+      },
+      {
+        "boundary_bits": 12,
+        "boundary_states": 4096,
+        "match_probability": 1,
+        "total_variation": 0
+      }
+    ]
+  }
+]
