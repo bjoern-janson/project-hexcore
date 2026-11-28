@@ -1,0 +1,22 @@
+{
+  "exact_audit": {
+    "cells": 6,
+    "initial_states": 64,
+    "trials": 100,
+    "steps_per_trial": 25,
+    "conditional_probability_checks": 52500
+  },
+  "zoom": {
+    "cells": 1099511627776,
+    "zoom_levels": 40,
+    "queries": 85,
+    "stored_boundary_labels": 42,
+    "committed_random_bits": 41,
+    "consistency_checks": 44,
+    "materialized_cell_values": 0,
+    "finest_interval": [
+      865212826135,
+      865212826136
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "exhaustive_3_modes_3_actions": 343,
+  "exhaustive_label_histogram": {
+    "1": 169,
+    "2": 168,
+    "3": 6
+  },
+  "random_cases": 1000,
+  "random_label_histogram": {
+    "1": 310,
+    "2": 622,
+    "3": 67,
+    "4": 1
+  },
+  "unique_correct_actions": [
+    {
+      "modes": 2,
+      "minimum_labels": 2,
+      "fixed_width_bits": 1,
+      "rank": 1
+    },
+    {
+      "modes": 3,
+      "minimum_labels": 3,
+      "fixed_width_bits": 2,
+      "rank": 1
+    },
+    {
+      "modes": 4,
+      "minimum_labels": 4,
+      "fixed_width_bits": 2,
+      "rank": 1
+    },
+    {
+      "modes": 5,
+      "minimum_labels": 5,
+      "fixed_width_bits": 3,
+      "rank": 1
+    },
+    {
+      "modes": 6,
+      "minimum_labels": 6,
+      "fixed_width_bits": 3,
+      "rank": 1
+    },
+    {
+      "modes": 7,
+      "minimum_labels": 7,
+      "fixed_width_bits": 3,
+      "rank": 1
+    },
+    {
+      "modes": 8,
+      "minimum_labels": 8,
+      "fixed_width_bits": 3,
+      "rank": 1
+    },
+    {
+      "modes": 16,
+      "minimum_labels": 16,
+      "fixed_width_bits": 4,
+      "rank": 1
+    },
+    {
+      "modes": 32,
+      "minimum_labels": 32,
+      "fixed_width_bits": 5,
+      "rank": 1
+    },
+    {
+      "modes": 64,
+      "minimum_labels": 64,
+      "fixed_width_bits": 6,
+      "rank": 1
+    },
+    {
+      "modes": 128,
+      "minimum_labels": 128,
+      "fixed_width_bits": 7,
+      "rank": 1
+    },
+    {
+      "modes": 256,
+      "minimum_labels": 256,
+      "fixed_width_bits": 8,
+      "rank": 1
+    },
+    {
+      "modes": 1024,
+      "minimum_labels": 1024,
+      "fixed_width_bits": 10,
+      "rank": 1
+    }
+  ],
+  "atomicity_cases": {
+    "2": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    },
+    "3": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    },
+    "4": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    },
+    "5": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    },
+    "6": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    },
+    "7": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    },
+    "8": {
+      "held_through_action": true,
+      "unrestricted_switch_after_report": false
+    }
+  },
+  "assertion_evaluations": 8320,
+  "failed_assertions": 0
+}

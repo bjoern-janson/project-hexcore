@@ -1,0 +1,100 @@
+{
+  "model": "visible graph chosen adversarially before each action; undirected unit edges; wait allowed; goal vertex 0 fixed",
+  "stars": [
+    {
+      "vertices": 3,
+      "possible_snapshots": 2,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 2,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 4,
+      "possible_snapshots": 3,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 3,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 5,
+      "possible_snapshots": 4,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 4,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 6,
+      "possible_snapshots": 5,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 5,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 7,
+      "possible_snapshots": 6,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 6,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 8,
+      "possible_snapshots": 7,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 7,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 9,
+      "possible_snapshots": 8,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 8,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 10,
+      "possible_snapshots": 9,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 9,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 11,
+      "possible_snapshots": 10,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 10,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    },
+    {
+      "vertices": 12,
+      "possible_snapshots": 11,
+      "max_frozen_distance": 2,
+      "robust_losing_nonanchor_states": 11,
+      "max_frozen_identification_cost_for_three_bits": 5,
+      "dynamic_identification_cost": null
+    }
+  ],
+  "random_layered": {
+    "families": 150,
+    "states": 1438,
+    "max_robust_rank": 5,
+    "states_without_one_common_descending_neighbor": 751,
+    "all_declared_rank_bounds_passed": true
+  },
+  "random_families": {
+    "families": 250,
+    "states": 1366,
+    "winning": 431,
+    "losing": 935,
+    "families_with_losing_state": 207
+  },
+  "assertions_passed": 32639
+}

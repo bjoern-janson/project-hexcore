@@ -1,0 +1,173 @@
+{
+  "model": "unit-cost silent reversible motion and binary observations; known graph and readouts; zero-error deterministic identification",
+  "cycle_exact": [
+    {
+      "m": 3,
+      "mode": "fast",
+      "vertices": 8,
+      "distance": 1,
+      "optimal_cost": 4
+    },
+    {
+      "m": 3,
+      "mode": "slow",
+      "vertices": 8,
+      "distance": 3,
+      "optimal_cost": 6
+    },
+    {
+      "m": 4,
+      "mode": "fast",
+      "vertices": 16,
+      "distance": 1,
+      "optimal_cost": 4
+    },
+    {
+      "m": 4,
+      "mode": "slow",
+      "vertices": 16,
+      "distance": 7,
+      "optimal_cost": 10
+    },
+    {
+      "m": 5,
+      "mode": "fast",
+      "vertices": 32,
+      "distance": 1,
+      "optimal_cost": 4
+    },
+    {
+      "m": 5,
+      "mode": "slow",
+      "vertices": 32,
+      "distance": 15,
+      "optimal_cost": 18
+    },
+    {
+      "m": 6,
+      "mode": "fast",
+      "vertices": 64,
+      "distance": 1,
+      "optimal_cost": 4
+    },
+    {
+      "m": 6,
+      "mode": "slow",
+      "vertices": 64,
+      "distance": 31,
+      "optimal_cost": 34
+    },
+    {
+      "m": 7,
+      "mode": "fast",
+      "vertices": 128,
+      "distance": 1,
+      "optimal_cost": 4
+    },
+    {
+      "m": 7,
+      "mode": "slow",
+      "vertices": 128,
+      "distance": 63,
+      "optimal_cost": 66
+    },
+    {
+      "m": 8,
+      "mode": "fast",
+      "vertices": 256,
+      "distance": 1,
+      "optimal_cost": 4
+    },
+    {
+      "m": 8,
+      "mode": "slow",
+      "vertices": 256,
+      "distance": 127,
+      "optimal_cost": 130
+    }
+  ],
+  "cycle_scaling": [
+    {
+      "m": 3,
+      "architecture_states": 8,
+      "fast": 4,
+      "slow": 6
+    },
+    {
+      "m": 4,
+      "architecture_states": 16,
+      "fast": 4,
+      "slow": 10
+    },
+    {
+      "m": 8,
+      "architecture_states": 256,
+      "fast": 4,
+      "slow": 130
+    },
+    {
+      "m": 12,
+      "architecture_states": 4096,
+      "fast": 4,
+      "slow": 2050
+    },
+    {
+      "m": 16,
+      "architecture_states": 65536,
+      "fast": 4,
+      "slow": 32770
+    },
+    {
+      "m": 20,
+      "architecture_states": 1048576,
+      "fast": 4,
+      "slow": 524290
+    },
+    {
+      "m": 24,
+      "architecture_states": 16777216,
+      "fast": 4,
+      "slow": 8388610
+    },
+    {
+      "m": 32,
+      "architecture_states": 4294967296,
+      "fast": 4,
+      "slow": 2147483650
+    }
+  ],
+  "random_audit": {
+    "graphs": 100,
+    "belief_states": 18056,
+    "finite": 12483,
+    "infinite": 5573,
+    "pair_bound_checked": 12483,
+    "pair_bound_tight": 5230,
+    "balanced_bound_checked": 11746,
+    "balanced_bound_tight": 5695,
+    "anchor_bound_checked": 51575,
+    "anchor_bound_tight": 21751,
+    "max_pair_bound_slack": 33
+  },
+  "radius_zero": [
+    {
+      "worlds": 4,
+      "bit_cost": 2,
+      "singleton_cost": 3,
+      "pair_radius": 0
+    },
+    {
+      "worlds": 8,
+      "bit_cost": 3,
+      "singleton_cost": 7,
+      "pair_radius": 0
+    },
+    {
+      "worlds": 16,
+      "bit_cost": 4,
+      "singleton_cost": 15,
+      "pair_radius": 0
+    }
+  ],
+  "assertions_passed": 94918
+}

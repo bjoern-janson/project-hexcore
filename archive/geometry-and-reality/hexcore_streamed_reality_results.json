@@ -1,0 +1,64 @@
+{
+  "exact_audit": {
+    "worlds": 32,
+    "terminal_transcripts": 12,
+    "conditional_probability_checks": 1430,
+    "branches": 66
+  },
+  "triangle_audit": {
+    "triangles": 10000,
+    "contradictions": {
+      "relational": 0,
+      "lazy_latent": 0,
+      "independent_cache": 4974
+    },
+    "committed_random_bits": {
+      "relational": 20000,
+      "lazy_latent": 30000,
+      "independent_cache": 30000
+    }
+  },
+  "scaling": [
+    {
+      "world_sites": 1048576,
+      "interactions": 6000,
+      "touched_sites": 1000,
+      "eager_latent_packed_bytes": 131072,
+      "relational_random_bits": 999,
+      "latent_random_bits": 1000,
+      "relational_python_state_bytes": 171968,
+      "latent_python_state_bytes": 98048,
+      "relational_wall_seconds": 0.025397467000402685,
+      "latent_wall_seconds": 0.007002145999649656
+    },
+    {
+      "world_sites": 1073741824,
+      "interactions": 6000,
+      "touched_sites": 1000,
+      "eager_latent_packed_bytes": 134217728,
+      "relational_random_bits": 999,
+      "latent_random_bits": 1000,
+      "relational_python_state_bytes": 171968,
+      "latent_python_state_bytes": 98048,
+      "relational_wall_seconds": 0.022252857999774278,
+      "latent_wall_seconds": 0.007290692000424315
+    },
+    {
+      "world_sites": 1099511627776,
+      "interactions": 6000,
+      "touched_sites": 1000,
+      "eager_latent_packed_bytes": 137438953472,
+      "relational_random_bits": 999,
+      "latent_random_bits": 1000,
+      "relational_python_state_bytes": 175964,
+      "latent_python_state_bytes": 102044,
+      "relational_wall_seconds": 0.01796815899979265,
+      "latent_wall_seconds": 0.0034681339993767324
+    }
+  ],
+  "causal_divergence": {
+    "noise": 0.1,
+    "marginal_kl_bits": 0,
+    "joint_kl_bits": 2.5359400011538495
+  }
+}

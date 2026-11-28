@@ -1,0 +1,2307 @@
+{
+  "cycle": [
+    {
+      "credit": 0,
+      "worst_moves": 2,
+      "refill_one_worst_moves": 2
+    },
+    {
+      "credit": 1,
+      "worst_moves": 3,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 2,
+      "worst_moves": 4,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 3,
+      "worst_moves": 5,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 4,
+      "worst_moves": 6,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 5,
+      "worst_moves": 7,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 6,
+      "worst_moves": 8,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 7,
+      "worst_moves": 9,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 8,
+      "worst_moves": 10,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 9,
+      "worst_moves": 11,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 10,
+      "worst_moves": 12,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 11,
+      "worst_moves": 13,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 12,
+      "worst_moves": 14,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 13,
+      "worst_moves": 15,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 14,
+      "worst_moves": 16,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 15,
+      "worst_moves": 17,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 16,
+      "worst_moves": 18,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 17,
+      "worst_moves": 19,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 18,
+      "worst_moves": 20,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 19,
+      "worst_moves": 21,
+      "refill_one_worst_moves": null
+    },
+    {
+      "credit": 20,
+      "worst_moves": 22,
+      "refill_one_worst_moves": null
+    }
+  ],
+  "random_families": 200,
+  "aggregate": {
+    "handoffs": 75347,
+    "admitted": 71007,
+    "rejected": 4340,
+    "admitted_nonconstant": 51318,
+    "deadline_states": 7497
+  },
+  "families": [
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 58,
+      "admitted": 57,
+      "rejected": 1,
+      "admitted_nonconstant": 28,
+      "deadline_states": 18
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 296,
+      "admitted": 282,
+      "rejected": 14,
+      "admitted_nonconstant": 208,
+      "deadline_states": 24
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 38,
+      "admitted": 37,
+      "rejected": 1,
+      "admitted_nonconstant": 18,
+      "deadline_states": 12
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 456,
+      "admitted": 418,
+      "rejected": 38,
+      "admitted_nonconstant": 266,
+      "deadline_states": 72
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 32,
+      "admitted": 32,
+      "rejected": 0,
+      "admitted_nonconstant": 16,
+      "deadline_states": 10
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 496,
+      "admitted": 470,
+      "rejected": 26,
+      "admitted_nonconstant": 346,
+      "deadline_states": 40
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 665,
+      "admitted": 633,
+      "rejected": 32,
+      "admitted_nonconstant": 500,
+      "deadline_states": 35
+    },
+    {
+      "n": 4,
+      "versions": 4,
+      "handoffs": 264,
+      "admitted": 252,
+      "rejected": 12,
+      "admitted_nonconstant": 186,
+      "deadline_states": 21
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 165,
+      "admitted": 159,
+      "rejected": 6,
+      "admitted_nonconstant": 104,
+      "deadline_states": 24
+    },
+    {
+      "n": 8,
+      "versions": 3,
+      "handoffs": 318,
+      "admitted": 300,
+      "rejected": 18,
+      "admitted_nonconstant": 194,
+      "deadline_states": 49
+    },
+    {
+      "n": 5,
+      "versions": 2,
+      "handoffs": 84,
+      "admitted": 80,
+      "rejected": 4,
+      "admitted_nonconstant": 38,
+      "deadline_states": 28
+    },
+    {
+      "n": 8,
+      "versions": 3,
+      "handoffs": 387,
+      "admitted": 367,
+      "rejected": 20,
+      "admitted_nonconstant": 238,
+      "deadline_states": 56
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 508,
+      "admitted": 483,
+      "rejected": 25,
+      "admitted_nonconstant": 356,
+      "deadline_states": 40
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 740,
+      "admitted": 690,
+      "rejected": 50,
+      "admitted_nonconstant": 542,
+      "deadline_states": 40
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 352,
+      "admitted": 336,
+      "rejected": 16,
+      "admitted_nonconstant": 248,
+      "deadline_states": 28
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 417,
+      "admitted": 399,
+      "rejected": 18,
+      "admitted_nonconstant": 260,
+      "deadline_states": 64
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 32,
+      "admitted": 32,
+      "rejected": 0,
+      "admitted_nonconstant": 16,
+      "deadline_states": 10
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 640,
+      "admitted": 592,
+      "rejected": 48,
+      "admitted_nonconstant": 464,
+      "deadline_states": 35
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 448,
+      "admitted": 428,
+      "rejected": 20,
+      "admitted_nonconstant": 316,
+      "deadline_states": 35
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 192,
+      "admitted": 182,
+      "rejected": 10,
+      "admitted_nonconstant": 86,
+      "deadline_states": 63
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 915,
+      "admitted": 855,
+      "rejected": 60,
+      "admitted_nonconstant": 672,
+      "deadline_states": 49
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 685,
+      "admitted": 657,
+      "rejected": 28,
+      "admitted_nonconstant": 520,
+      "deadline_states": 35
+    },
+    {
+      "n": 8,
+      "versions": 4,
+      "handoffs": 832,
+      "admitted": 776,
+      "rejected": 56,
+      "admitted_nonconstant": 568,
+      "deadline_states": 70
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 292,
+      "admitted": 277,
+      "rejected": 15,
+      "admitted_nonconstant": 204,
+      "deadline_states": 24
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 460,
+      "admitted": 419,
+      "rejected": 41,
+      "admitted_nonconstant": 304,
+      "deadline_states": 40
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 118,
+      "admitted": 113,
+      "rejected": 5,
+      "admitted_nonconstant": 54,
+      "deadline_states": 42
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 459,
+      "admitted": 431,
+      "rejected": 28,
+      "admitted_nonconstant": 278,
+      "deadline_states": 72
+    },
+    {
+      "n": 5,
+      "versions": 2,
+      "handoffs": 84,
+      "admitted": 80,
+      "rejected": 4,
+      "admitted_nonconstant": 38,
+      "deadline_states": 28
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 240,
+      "admitted": 232,
+      "rejected": 8,
+      "admitted_nonconstant": 184,
+      "deadline_states": 12
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1025,
+      "admitted": 959,
+      "rejected": 66,
+      "admitted_nonconstant": 754,
+      "deadline_states": 56
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 58,
+      "admitted": 57,
+      "rejected": 1,
+      "admitted_nonconstant": 28,
+      "deadline_states": 18
+    },
+    {
+      "n": 9,
+      "versions": 2,
+      "handoffs": 144,
+      "admitted": 140,
+      "rejected": 4,
+      "admitted_nonconstant": 68,
+      "deadline_states": 48
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 352,
+      "admitted": 334,
+      "rejected": 18,
+      "admitted_nonconstant": 246,
+      "deadline_states": 28
+    },
+    {
+      "n": 7,
+      "versions": 4,
+      "handoffs": 576,
+      "admitted": 534,
+      "rejected": 42,
+      "admitted_nonconstant": 390,
+      "deadline_states": 48
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 147,
+      "admitted": 139,
+      "rejected": 8,
+      "admitted_nonconstant": 90,
+      "deadline_states": 21
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 441,
+      "admitted": 419,
+      "rejected": 22,
+      "admitted_nonconstant": 272,
+      "deadline_states": 64
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 500,
+      "admitted": 477,
+      "rejected": 23,
+      "admitted_nonconstant": 352,
+      "deadline_states": 40
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 138,
+      "admitted": 130,
+      "rejected": 8,
+      "admitted_nonconstant": 84,
+      "deadline_states": 21
+    },
+    {
+      "n": 3,
+      "versions": 3,
+      "handoffs": 81,
+      "admitted": 77,
+      "rejected": 4,
+      "admitted_nonconstant": 50,
+      "deadline_states": 12
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 146,
+      "admitted": 143,
+      "rejected": 3,
+      "admitted_nonconstant": 70,
+      "deadline_states": 49
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 198,
+      "admitted": 188,
+      "rejected": 10,
+      "admitted_nonconstant": 122,
+      "deadline_states": 30
+    },
+    {
+      "n": 3,
+      "versions": 3,
+      "handoffs": 87,
+      "admitted": 85,
+      "rejected": 2,
+      "admitted_nonconstant": 56,
+      "deadline_states": 12
+    },
+    {
+      "n": 7,
+      "versions": 5,
+      "handoffs": 1040,
+      "admitted": 970,
+      "rejected": 70,
+      "admitted_nonconstant": 762,
+      "deadline_states": 54
+    },
+    {
+      "n": 9,
+      "versions": 2,
+      "handoffs": 142,
+      "admitted": 139,
+      "rejected": 3,
+      "admitted_nonconstant": 68,
+      "deadline_states": 48
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 297,
+      "admitted": 287,
+      "rejected": 10,
+      "admitted_nonconstant": 188,
+      "deadline_states": 42
+    },
+    {
+      "n": 8,
+      "versions": 3,
+      "handoffs": 351,
+      "admitted": 329,
+      "rejected": 22,
+      "admitted_nonconstant": 212,
+      "deadline_states": 56
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 530,
+      "admitted": 498,
+      "rejected": 32,
+      "admitted_nonconstant": 392,
+      "deadline_states": 28
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 369,
+      "admitted": 343,
+      "rejected": 26,
+      "admitted_nonconstant": 220,
+      "deadline_states": 54
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 138,
+      "admitted": 132,
+      "rejected": 6,
+      "admitted_nonconstant": 86,
+      "deadline_states": 21
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 58,
+      "admitted": 57,
+      "rejected": 1,
+      "admitted_nonconstant": 28,
+      "deadline_states": 18
+    },
+    {
+      "n": 7,
+      "versions": 4,
+      "handoffs": 592,
+      "admitted": 564,
+      "rejected": 28,
+      "admitted_nonconstant": 416,
+      "deadline_states": 48
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 630,
+      "admitted": 596,
+      "rejected": 34,
+      "admitted_nonconstant": 470,
+      "deadline_states": 32
+    },
+    {
+      "n": 7,
+      "versions": 5,
+      "handoffs": 905,
+      "admitted": 831,
+      "rejected": 74,
+      "admitted_nonconstant": 650,
+      "deadline_states": 48
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 110,
+      "admitted": 105,
+      "rejected": 5,
+      "admitted_nonconstant": 50,
+      "deadline_states": 36
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 130,
+      "admitted": 127,
+      "rejected": 3,
+      "admitted_nonconstant": 62,
+      "deadline_states": 42
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 417,
+      "admitted": 397,
+      "rejected": 20,
+      "admitted_nonconstant": 258,
+      "deadline_states": 64
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 327,
+      "admitted": 313,
+      "rejected": 14,
+      "admitted_nonconstant": 204,
+      "deadline_states": 48
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 164,
+      "admitted": 154,
+      "rejected": 10,
+      "admitted_nonconstant": 72,
+      "deadline_states": 56
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 186,
+      "admitted": 176,
+      "rejected": 10,
+      "admitted_nonconstant": 114,
+      "deadline_states": 28
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 270,
+      "admitted": 252,
+      "rejected": 18,
+      "admitted_nonconstant": 162,
+      "deadline_states": 40
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 344,
+      "admitted": 326,
+      "rejected": 18,
+      "admitted_nonconstant": 240,
+      "deadline_states": 28
+    },
+    {
+      "n": 4,
+      "versions": 5,
+      "handoffs": 340,
+      "admitted": 322,
+      "rejected": 18,
+      "admitted_nonconstant": 254,
+      "deadline_states": 18
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 315,
+      "admitted": 299,
+      "rejected": 16,
+      "admitted_nonconstant": 194,
+      "deadline_states": 48
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 535,
+      "admitted": 501,
+      "rejected": 34,
+      "admitted_nonconstant": 394,
+      "deadline_states": 28
+    },
+    {
+      "n": 8,
+      "versions": 3,
+      "handoffs": 351,
+      "admitted": 329,
+      "rejected": 22,
+      "admitted_nonconstant": 212,
+      "deadline_states": 56
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 240,
+      "admitted": 234,
+      "rejected": 6,
+      "admitted_nonconstant": 186,
+      "deadline_states": 12
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 134,
+      "admitted": 127,
+      "rejected": 7,
+      "admitted_nonconstant": 60,
+      "deadline_states": 48
+    },
+    {
+      "n": 7,
+      "versions": 4,
+      "handoffs": 608,
+      "admitted": 576,
+      "rejected": 32,
+      "admitted_nonconstant": 424,
+      "deadline_states": 48
+    },
+    {
+      "n": 5,
+      "versions": 2,
+      "handoffs": 86,
+      "admitted": 83,
+      "rejected": 3,
+      "admitted_nonconstant": 40,
+      "deadline_states": 28
+    },
+    {
+      "n": 9,
+      "versions": 5,
+      "handoffs": 1200,
+      "admitted": 1124,
+      "rejected": 76,
+      "admitted_nonconstant": 884,
+      "deadline_states": 64
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 147,
+      "admitted": 139,
+      "rejected": 8,
+      "admitted_nonconstant": 90,
+      "deadline_states": 21
+    },
+    {
+      "n": 9,
+      "versions": 5,
+      "handoffs": 1210,
+      "admitted": 1128,
+      "rejected": 82,
+      "admitted_nonconstant": 886,
+      "deadline_states": 64
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 219,
+      "admitted": 203,
+      "rejected": 16,
+      "admitted_nonconstant": 130,
+      "deadline_states": 35
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 800,
+      "admitted": 752,
+      "rejected": 48,
+      "admitted_nonconstant": 552,
+      "deadline_states": 64
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 126,
+      "admitted": 122,
+      "rejected": 4,
+      "admitted_nonconstant": 80,
+      "deadline_states": 18
+    },
+    {
+      "n": 7,
+      "versions": 5,
+      "handoffs": 780,
+      "admitted": 732,
+      "rejected": 48,
+      "admitted_nonconstant": 576,
+      "deadline_states": 42
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 535,
+      "admitted": 503,
+      "rejected": 32,
+      "admitted_nonconstant": 396,
+      "deadline_states": 28
+    },
+    {
+      "n": 9,
+      "versions": 5,
+      "handoffs": 1180,
+      "admitted": 1090,
+      "rejected": 90,
+      "admitted_nonconstant": 854,
+      "deadline_states": 64
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1105,
+      "admitted": 1005,
+      "rejected": 100,
+      "admitted_nonconstant": 784,
+      "deadline_states": 63
+    },
+    {
+      "n": 3,
+      "versions": 4,
+      "handoffs": 156,
+      "admitted": 153,
+      "rejected": 3,
+      "admitted_nonconstant": 114,
+      "deadline_states": 12
+    },
+    {
+      "n": 3,
+      "versions": 3,
+      "handoffs": 87,
+      "admitted": 85,
+      "rejected": 2,
+      "admitted_nonconstant": 56,
+      "deadline_states": 12
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 123,
+      "admitted": 117,
+      "rejected": 6,
+      "admitted_nonconstant": 76,
+      "deadline_states": 18
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 477,
+      "admitted": 447,
+      "rejected": 30,
+      "admitted_nonconstant": 288,
+      "deadline_states": 72
+    },
+    {
+      "n": 3,
+      "versions": 3,
+      "handoffs": 84,
+      "admitted": 82,
+      "rejected": 2,
+      "admitted_nonconstant": 54,
+      "deadline_states": 12
+    },
+    {
+      "n": 7,
+      "versions": 5,
+      "handoffs": 770,
+      "admitted": 724,
+      "rejected": 46,
+      "admitted_nonconstant": 570,
+      "deadline_states": 42
+    },
+    {
+      "n": 9,
+      "versions": 5,
+      "handoffs": 1140,
+      "admitted": 1058,
+      "rejected": 82,
+      "admitted_nonconstant": 830,
+      "deadline_states": 64
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1075,
+      "admitted": 1021,
+      "rejected": 54,
+      "admitted_nonconstant": 806,
+      "deadline_states": 56
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 800,
+      "admitted": 762,
+      "rejected": 38,
+      "admitted_nonconstant": 562,
+      "deadline_states": 64
+    },
+    {
+      "n": 8,
+      "versions": 4,
+      "handoffs": 788,
+      "admitted": 741,
+      "rejected": 47,
+      "admitted_nonconstant": 544,
+      "deadline_states": 63
+    },
+    {
+      "n": 7,
+      "versions": 4,
+      "handoffs": 504,
+      "admitted": 472,
+      "rejected": 32,
+      "admitted_nonconstant": 346,
+      "deadline_states": 42
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 64,
+      "admitted": 60,
+      "rejected": 4,
+      "admitted_nonconstant": 28,
+      "deadline_states": 21
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 235,
+      "admitted": 225,
+      "rejected": 10,
+      "admitted_nonconstant": 178,
+      "deadline_states": 12
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 110,
+      "admitted": 109,
+      "rejected": 1,
+      "admitted_nonconstant": 54,
+      "deadline_states": 36
+    },
+    {
+      "n": 6,
+      "versions": 2,
+      "handoffs": 124,
+      "admitted": 118,
+      "rejected": 6,
+      "admitted_nonconstant": 56,
+      "deadline_states": 40
+    },
+    {
+      "n": 8,
+      "versions": 4,
+      "handoffs": 688,
+      "admitted": 652,
+      "rejected": 36,
+      "admitted_nonconstant": 480,
+      "deadline_states": 56
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 138,
+      "admitted": 130,
+      "rejected": 8,
+      "admitted_nonconstant": 84,
+      "deadline_states": 21
+    },
+    {
+      "n": 4,
+      "versions": 4,
+      "handoffs": 256,
+      "admitted": 246,
+      "rejected": 10,
+      "admitted_nonconstant": 182,
+      "deadline_states": 21
+    },
+    {
+      "n": 5,
+      "versions": 2,
+      "handoffs": 86,
+      "admitted": 85,
+      "rejected": 1,
+      "admitted_nonconstant": 42,
+      "deadline_states": 28
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 225,
+      "admitted": 211,
+      "rejected": 14,
+      "admitted_nonconstant": 136,
+      "deadline_states": 32
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 270,
+      "admitted": 256,
+      "rejected": 14,
+      "admitted_nonconstant": 166,
+      "deadline_states": 42
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 235,
+      "admitted": 225,
+      "rejected": 10,
+      "admitted_nonconstant": 178,
+      "deadline_states": 12
+    },
+    {
+      "n": 7,
+      "versions": 5,
+      "handoffs": 885,
+      "admitted": 817,
+      "rejected": 68,
+      "admitted_nonconstant": 640,
+      "deadline_states": 48
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 381,
+      "admitted": 361,
+      "rejected": 20,
+      "admitted_nonconstant": 234,
+      "deadline_states": 56
+    },
+    {
+      "n": 3,
+      "versions": 4,
+      "handoffs": 152,
+      "admitted": 146,
+      "rejected": 6,
+      "admitted_nonconstant": 108,
+      "deadline_states": 12
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 54,
+      "admitted": 51,
+      "rejected": 3,
+      "admitted_nonconstant": 24,
+      "deadline_states": 18
+    },
+    {
+      "n": 3,
+      "versions": 4,
+      "handoffs": 156,
+      "admitted": 153,
+      "rejected": 3,
+      "admitted_nonconstant": 114,
+      "deadline_states": 12
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 972,
+      "admitted": 891,
+      "rejected": 81,
+      "admitted_nonconstant": 648,
+      "deadline_states": 80
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 925,
+      "admitted": 877,
+      "rejected": 48,
+      "admitted_nonconstant": 692,
+      "deadline_states": 49
+    },
+    {
+      "n": 7,
+      "versions": 4,
+      "handoffs": 496,
+      "admitted": 468,
+      "rejected": 28,
+      "admitted_nonconstant": 344,
+      "deadline_states": 42
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 126,
+      "admitted": 120,
+      "rejected": 6,
+      "admitted_nonconstant": 78,
+      "deadline_states": 18
+    },
+    {
+      "n": 8,
+      "versions": 4,
+      "handoffs": 740,
+      "admitted": 703,
+      "rejected": 37,
+      "admitted_nonconstant": 518,
+      "deadline_states": 63
+    },
+    {
+      "n": 6,
+      "versions": 2,
+      "handoffs": 126,
+      "admitted": 117,
+      "rejected": 9,
+      "admitted_nonconstant": 54,
+      "deadline_states": 45
+    },
+    {
+      "n": 6,
+      "versions": 2,
+      "handoffs": 108,
+      "admitted": 104,
+      "rejected": 4,
+      "admitted_nonconstant": 50,
+      "deadline_states": 35
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 550,
+      "admitted": 522,
+      "rejected": 28,
+      "admitted_nonconstant": 412,
+      "deadline_states": 28
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 664,
+      "admitted": 622,
+      "rejected": 42,
+      "admitted_nonconstant": 456,
+      "deadline_states": 56
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 38,
+      "admitted": 37,
+      "rejected": 1,
+      "admitted_nonconstant": 18,
+      "deadline_states": 12
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 142,
+      "admitted": 137,
+      "rejected": 5,
+      "admitted_nonconstant": 66,
+      "deadline_states": 49
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 240,
+      "admitted": 230,
+      "rejected": 10,
+      "admitted_nonconstant": 150,
+      "deadline_states": 35
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 404,
+      "admitted": 379,
+      "rejected": 25,
+      "admitted_nonconstant": 278,
+      "deadline_states": 35
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 129,
+      "admitted": 125,
+      "rejected": 4,
+      "admitted_nonconstant": 82,
+      "deadline_states": 18
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 648,
+      "admitted": 606,
+      "rejected": 42,
+      "admitted_nonconstant": 444,
+      "deadline_states": 56
+    },
+    {
+      "n": 7,
+      "versions": 5,
+      "handoffs": 935,
+      "admitted": 893,
+      "rejected": 42,
+      "admitted_nonconstant": 706,
+      "deadline_states": 48
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 888,
+      "admitted": 822,
+      "rejected": 66,
+      "admitted_nonconstant": 600,
+      "deadline_states": 72
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 318,
+      "admitted": 302,
+      "rejected": 16,
+      "admitted_nonconstant": 196,
+      "deadline_states": 48
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1050,
+      "admitted": 980,
+      "rejected": 70,
+      "admitted_nonconstant": 770,
+      "deadline_states": 56
+    },
+    {
+      "n": 4,
+      "versions": 4,
+      "handoffs": 228,
+      "admitted": 219,
+      "rejected": 9,
+      "admitted_nonconstant": 162,
+      "deadline_states": 18
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 378,
+      "admitted": 358,
+      "rejected": 20,
+      "admitted_nonconstant": 232,
+      "deadline_states": 56
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 60,
+      "admitted": 58,
+      "rejected": 2,
+      "admitted_nonconstant": 28,
+      "deadline_states": 21
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 324,
+      "admitted": 304,
+      "rejected": 20,
+      "admitted_nonconstant": 196,
+      "deadline_states": 48
+    },
+    {
+      "n": 9,
+      "versions": 5,
+      "handoffs": 1260,
+      "admitted": 1204,
+      "rejected": 56,
+      "admitted_nonconstant": 952,
+      "deadline_states": 64
+    },
+    {
+      "n": 9,
+      "versions": 2,
+      "handoffs": 216,
+      "admitted": 206,
+      "rejected": 10,
+      "admitted_nonconstant": 98,
+      "deadline_states": 72
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 240,
+      "admitted": 234,
+      "rejected": 6,
+      "admitted_nonconstant": 186,
+      "deadline_states": 12
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 54,
+      "admitted": 51,
+      "rejected": 3,
+      "admitted_nonconstant": 24,
+      "deadline_states": 18
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 545,
+      "admitted": 521,
+      "rejected": 24,
+      "admitted_nonconstant": 412,
+      "deadline_states": 28
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 196,
+      "admitted": 186,
+      "rejected": 10,
+      "admitted_nonconstant": 88,
+      "deadline_states": 63
+    },
+    {
+      "n": 3,
+      "versions": 4,
+      "handoffs": 156,
+      "admitted": 153,
+      "rejected": 3,
+      "admitted_nonconstant": 114,
+      "deadline_states": 12
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 36,
+      "admitted": 36,
+      "rejected": 0,
+      "admitted_nonconstant": 18,
+      "deadline_states": 12
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 412,
+      "admitted": 391,
+      "rejected": 21,
+      "admitted_nonconstant": 288,
+      "deadline_states": 35
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 142,
+      "admitted": 133,
+      "rejected": 9,
+      "admitted_nonconstant": 62,
+      "deadline_states": 48
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 670,
+      "admitted": 632,
+      "rejected": 38,
+      "admitted_nonconstant": 498,
+      "deadline_states": 35
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 186,
+      "admitted": 178,
+      "rejected": 8,
+      "admitted_nonconstant": 116,
+      "deadline_states": 28
+    },
+    {
+      "n": 8,
+      "versions": 3,
+      "handoffs": 456,
+      "admitted": 416,
+      "rejected": 40,
+      "admitted_nonconstant": 264,
+      "deadline_states": 70
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 725,
+      "admitted": 681,
+      "rejected": 44,
+      "admitted_nonconstant": 536,
+      "deadline_states": 40
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 309,
+      "admitted": 293,
+      "rejected": 16,
+      "admitted_nonconstant": 190,
+      "deadline_states": 48
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 464,
+      "admitted": 432,
+      "rejected": 32,
+      "admitted_nonconstant": 316,
+      "deadline_states": 40
+    },
+    {
+      "n": 4,
+      "versions": 4,
+      "handoffs": 268,
+      "admitted": 255,
+      "rejected": 13,
+      "admitted_nonconstant": 188,
+      "deadline_states": 21
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 364,
+      "admitted": 349,
+      "rejected": 15,
+      "admitted_nonconstant": 258,
+      "deadline_states": 28
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 150,
+      "admitted": 144,
+      "rejected": 6,
+      "admitted_nonconstant": 94,
+      "deadline_states": 21
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 148,
+      "admitted": 140,
+      "rejected": 8,
+      "admitted_nonconstant": 66,
+      "deadline_states": 48
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 146,
+      "admitted": 139,
+      "rejected": 7,
+      "admitted_nonconstant": 66,
+      "deadline_states": 49
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 146,
+      "admitted": 137,
+      "rejected": 9,
+      "admitted_nonconstant": 64,
+      "deadline_states": 48
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1155,
+      "admitted": 1055,
+      "rejected": 100,
+      "admitted_nonconstant": 824,
+      "deadline_states": 63
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 339,
+      "admitted": 325,
+      "rejected": 14,
+      "admitted_nonconstant": 212,
+      "deadline_states": 48
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 123,
+      "admitted": 117,
+      "rejected": 6,
+      "admitted_nonconstant": 76,
+      "deadline_states": 18
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 150,
+      "admitted": 142,
+      "rejected": 8,
+      "admitted_nonconstant": 92,
+      "deadline_states": 21
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 245,
+      "admitted": 241,
+      "rejected": 4,
+      "admitted_nonconstant": 192,
+      "deadline_states": 12
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 246,
+      "admitted": 236,
+      "rejected": 10,
+      "admitted_nonconstant": 154,
+      "deadline_states": 35
+    },
+    {
+      "n": 9,
+      "versions": 4,
+      "handoffs": 852,
+      "admitted": 793,
+      "rejected": 59,
+      "admitted_nonconstant": 580,
+      "deadline_states": 72
+    },
+    {
+      "n": 7,
+      "versions": 3,
+      "handoffs": 300,
+      "admitted": 290,
+      "rejected": 10,
+      "admitted_nonconstant": 190,
+      "deadline_states": 42
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1010,
+      "admitted": 930,
+      "rejected": 80,
+      "admitted_nonconstant": 728,
+      "deadline_states": 56
+    },
+    {
+      "n": 9,
+      "versions": 5,
+      "handoffs": 1070,
+      "admitted": 1008,
+      "rejected": 62,
+      "admitted_nonconstant": 794,
+      "deadline_states": 56
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 32,
+      "admitted": 32,
+      "rejected": 0,
+      "admitted_nonconstant": 16,
+      "deadline_states": 10
+    },
+    {
+      "n": 6,
+      "versions": 4,
+      "handoffs": 496,
+      "admitted": 470,
+      "rejected": 26,
+      "admitted_nonconstant": 346,
+      "deadline_states": 40
+    },
+    {
+      "n": 9,
+      "versions": 2,
+      "handoffs": 172,
+      "admitted": 166,
+      "rejected": 6,
+      "admitted_nonconstant": 80,
+      "deadline_states": 56
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1050,
+      "admitted": 980,
+      "rejected": 70,
+      "admitted_nonconstant": 770,
+      "deadline_states": 56
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 279,
+      "admitted": 265,
+      "rejected": 14,
+      "admitted_nonconstant": 172,
+      "deadline_states": 40
+    },
+    {
+      "n": 6,
+      "versions": 2,
+      "handoffs": 94,
+      "admitted": 93,
+      "rejected": 1,
+      "admitted_nonconstant": 46,
+      "deadline_states": 30
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 52,
+      "admitted": 50,
+      "rejected": 2,
+      "admitted_nonconstant": 24,
+      "deadline_states": 18
+    },
+    {
+      "n": 5,
+      "versions": 5,
+      "handoffs": 530,
+      "admitted": 502,
+      "rejected": 28,
+      "admitted_nonconstant": 396,
+      "deadline_states": 28
+    },
+    {
+      "n": 8,
+      "versions": 3,
+      "handoffs": 333,
+      "admitted": 319,
+      "rejected": 14,
+      "admitted_nonconstant": 208,
+      "deadline_states": 49
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 148,
+      "admitted": 138,
+      "rejected": 10,
+      "admitted_nonconstant": 64,
+      "deadline_states": 48
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 126,
+      "admitted": 120,
+      "rejected": 6,
+      "admitted_nonconstant": 78,
+      "deadline_states": 18
+    },
+    {
+      "n": 8,
+      "versions": 5,
+      "handoffs": 1115,
+      "admitted": 1021,
+      "rejected": 94,
+      "admitted_nonconstant": 798,
+      "deadline_states": 63
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 195,
+      "admitted": 183,
+      "rejected": 12,
+      "admitted_nonconstant": 118,
+      "deadline_states": 28
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 380,
+      "admitted": 353,
+      "rejected": 27,
+      "admitted_nonconstant": 258,
+      "deadline_states": 32
+    },
+    {
+      "n": 5,
+      "versions": 4,
+      "handoffs": 304,
+      "admitted": 294,
+      "rejected": 10,
+      "admitted_nonconstant": 218,
+      "deadline_states": 24
+    },
+    {
+      "n": 9,
+      "versions": 3,
+      "handoffs": 444,
+      "admitted": 422,
+      "rejected": 22,
+      "admitted_nonconstant": 274,
+      "deadline_states": 64
+    },
+    {
+      "n": 6,
+      "versions": 2,
+      "handoffs": 88,
+      "admitted": 86,
+      "rejected": 2,
+      "admitted_nonconstant": 42,
+      "deadline_states": 30
+    },
+    {
+      "n": 4,
+      "versions": 4,
+      "handoffs": 260,
+      "admitted": 247,
+      "rejected": 13,
+      "admitted_nonconstant": 182,
+      "deadline_states": 21
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 64,
+      "admitted": 60,
+      "rejected": 4,
+      "admitted_nonconstant": 28,
+      "deadline_states": 21
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 194,
+      "admitted": 185,
+      "rejected": 9,
+      "admitted_nonconstant": 88,
+      "deadline_states": 63
+    },
+    {
+      "n": 5,
+      "versions": 2,
+      "handoffs": 86,
+      "admitted": 81,
+      "rejected": 5,
+      "admitted_nonconstant": 38,
+      "deadline_states": 28
+    },
+    {
+      "n": 5,
+      "versions": 2,
+      "handoffs": 84,
+      "admitted": 78,
+      "rejected": 6,
+      "admitted_nonconstant": 36,
+      "deadline_states": 28
+    },
+    {
+      "n": 8,
+      "versions": 4,
+      "handoffs": 704,
+      "admitted": 662,
+      "rejected": 42,
+      "admitted_nonconstant": 486,
+      "deadline_states": 56
+    },
+    {
+      "n": 4,
+      "versions": 5,
+      "handoffs": 400,
+      "admitted": 384,
+      "rejected": 16,
+      "admitted_nonconstant": 304,
+      "deadline_states": 21
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 267,
+      "admitted": 249,
+      "rejected": 18,
+      "admitted_nonconstant": 160,
+      "deadline_states": 40
+    },
+    {
+      "n": 7,
+      "versions": 2,
+      "handoffs": 140,
+      "admitted": 132,
+      "rejected": 8,
+      "admitted_nonconstant": 62,
+      "deadline_states": 48
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 58,
+      "admitted": 57,
+      "rejected": 1,
+      "admitted_nonconstant": 28,
+      "deadline_states": 18
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 201,
+      "admitted": 193,
+      "rejected": 8,
+      "admitted_nonconstant": 126,
+      "deadline_states": 28
+    },
+    {
+      "n": 6,
+      "versions": 5,
+      "handoffs": 670,
+      "admitted": 632,
+      "rejected": 38,
+      "admitted_nonconstant": 498,
+      "deadline_states": 35
+    },
+    {
+      "n": 4,
+      "versions": 3,
+      "handoffs": 129,
+      "admitted": 127,
+      "rejected": 2,
+      "admitted_nonconstant": 84,
+      "deadline_states": 18
+    },
+    {
+      "n": 3,
+      "versions": 2,
+      "handoffs": 36,
+      "admitted": 34,
+      "rejected": 2,
+      "admitted_nonconstant": 16,
+      "deadline_states": 12
+    },
+    {
+      "n": 5,
+      "versions": 3,
+      "handoffs": 222,
+      "admitted": 208,
+      "rejected": 14,
+      "admitted_nonconstant": 134,
+      "deadline_states": 32
+    },
+    {
+      "n": 4,
+      "versions": 5,
+      "handoffs": 345,
+      "admitted": 335,
+      "rejected": 10,
+      "admitted_nonconstant": 266,
+      "deadline_states": 18
+    },
+    {
+      "n": 4,
+      "versions": 2,
+      "handoffs": 58,
+      "admitted": 57,
+      "rejected": 1,
+      "admitted_nonconstant": 28,
+      "deadline_states": 18
+    },
+    {
+      "n": 8,
+      "versions": 2,
+      "handoffs": 148,
+      "admitted": 142,
+      "rejected": 6,
+      "admitted_nonconstant": 68,
+      "deadline_states": 49
+    },
+    {
+      "n": 6,
+      "versions": 3,
+      "handoffs": 237,
+      "admitted": 223,
+      "rejected": 14,
+      "admitted_nonconstant": 144,
+      "deadline_states": 35
+    },
+    {
+      "n": 3,
+      "versions": 5,
+      "handoffs": 230,
+      "admitted": 220,
+      "rejected": 10,
+      "admitted_nonconstant": 174,
+      "deadline_states": 12
+    },
+    {
+      "n": 3,
+      "versions": 3,
+      "handoffs": 84,
+      "admitted": 80,
+      "rejected": 4,
+      "admitted_nonconstant": 52,
+      "deadline_states": 12
+    },
+    {
+      "n": 3,
+      "versions": 3,
+      "handoffs": 84,
+      "admitted": 82,
+      "rejected": 2,
+      "admitted_nonconstant": 54,
+      "deadline_states": 12
+    }
+  ],
+  "visibility": [
+    {
+      "deadline": 1,
+      "fixed_hidden": false,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 2,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 3,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 4,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 5,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 6,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 7,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 8,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 9,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 10,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 11,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 12,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 13,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 14,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 15,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 16,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 17,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 18,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 19,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 20,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 21,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 22,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 23,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 24,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 25,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 26,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 27,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 28,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 29,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 30,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 31,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 32,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 33,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 34,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 35,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 36,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 37,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 38,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 39,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 40,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 41,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 42,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 43,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 44,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 45,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 46,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 47,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 48,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 49,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 50,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 51,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 52,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 53,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 54,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 55,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 56,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 57,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 58,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 59,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 60,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 61,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 62,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 63,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    },
+    {
+      "deadline": 64,
+      "fixed_hidden": true,
+      "changing_hidden": false,
+      "changing_revealed": true
+    }
+  ],
+  "assertion_evaluations": 187433,
+  "failed_assertions": 0
+}

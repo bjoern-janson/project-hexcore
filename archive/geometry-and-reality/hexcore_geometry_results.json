@@ -1,0 +1,171 @@
+{
+  "scope": "deterministic, known finite world class; noiseless unit-cost binary oracle; exact worst-case identification",
+  "rows": [
+    {
+      "k": 3,
+      "worlds": 8,
+      "distinct_queries": 5,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 3,
+      "slow_proven": 3,
+      "one_shot_identification_possible": false,
+      "fast_exact_dp": 3,
+      "slow_exact_dp": 3,
+      "dp_states": [
+        43,
+        51
+      ],
+      "switch_costs": [
+        {
+          "r": 0,
+          "exact_dp": 3
+        },
+        {
+          "r": 1,
+          "exact_dp": 3
+        },
+        {
+          "r": 2,
+          "exact_dp": 3
+        },
+        {
+          "r": 3,
+          "exact_dp": 3
+        },
+        {
+          "r": 4,
+          "exact_dp": 3
+        },
+        {
+          "r": 5,
+          "exact_dp": 3
+        }
+      ]
+    },
+    {
+      "k": 4,
+      "worlds": 16,
+      "distinct_queries": 9,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 4,
+      "slow_proven": 7,
+      "one_shot_identification_possible": false,
+      "fast_exact_dp": 4,
+      "slow_exact_dp": 7,
+      "dp_states": [
+        211,
+        583
+      ],
+      "switch_costs": [
+        {
+          "r": 0,
+          "exact_dp": 4
+        },
+        {
+          "r": 1,
+          "exact_dp": 5
+        },
+        {
+          "r": 2,
+          "exact_dp": 6
+        },
+        {
+          "r": 3,
+          "exact_dp": 7
+        },
+        {
+          "r": 4,
+          "exact_dp": 7
+        },
+        {
+          "r": 5,
+          "exact_dp": 7
+        },
+        {
+          "r": 6,
+          "exact_dp": 7
+        },
+        {
+          "r": 7,
+          "exact_dp": 7
+        },
+        {
+          "r": 8,
+          "exact_dp": 7
+        },
+        {
+          "r": 9,
+          "exact_dp": 7
+        }
+      ]
+    },
+    {
+      "k": 5,
+      "worlds": 32,
+      "distinct_queries": 17,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 5,
+      "slow_proven": 15,
+      "one_shot_identification_possible": false,
+      "fast_exact_dp": 5,
+      "slow_exact_dp": 15,
+      "dp_states": [
+        1331,
+        131343
+      ]
+    },
+    {
+      "k": 6,
+      "worlds": 64,
+      "distinct_queries": 33,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 6,
+      "slow_proven": 31,
+      "one_shot_identification_possible": false
+    },
+    {
+      "k": 7,
+      "worlds": 128,
+      "distinct_queries": 65,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 7,
+      "slow_proven": 63,
+      "one_shot_identification_possible": false
+    },
+    {
+      "k": 8,
+      "worlds": 256,
+      "distinct_queries": 129,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 8,
+      "slow_proven": 127,
+      "one_shot_identification_possible": false
+    },
+    {
+      "k": 9,
+      "worlds": 512,
+      "distinct_queries": 257,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 9,
+      "slow_proven": 255,
+      "one_shot_identification_possible": false
+    },
+    {
+      "k": 10,
+      "worlds": 1024,
+      "distinct_queries": 513,
+      "single_query_bits": 1,
+      "max_pairwise_cost": 1,
+      "fast_proven": 10,
+      "slow_proven": 511,
+      "one_shot_identification_possible": false
+    }
+  ]
+}
