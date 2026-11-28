@@ -28,6 +28,11 @@ Purpose: absorb established science before claiming novelty. This is a working l
 | Null-cone quantum gravity / causal-diamond gluing (Chandrasekaran, 2026 preprint) | Proposed finite-dimensionality under bounded gravitational clock and cut/uncut consistency; technical claim not independently validated. | Boundary information required for coherent composition of local simulations; [reading note and classical test](CAUSAL_BOUNDARY.md). | Analogy; NO TRANSLATION EARNED |
 | Nonnegative rank / latent-variable common information | Finite shared-state cardinality for conditional-independent local generation. | [Exact pairwise-invisible boundary-cost separation and approximation frontier](CAUSAL_BOUNDARY.md). | Standard machinery, scoped example; no priority claim |
 
+| Evolutionary developmental biology / inheritance of generative structure | Organisms are reconstructed through inherited developmental machinery and environmental interactions. | Inherit construction rules rather than finished expressions. | Biological analogy; no equivalence proof |
+| Statistical grammar induction, active learning and symbolic program synthesis | Supplied rule languages permit learning compact generators and querying informative examples. | Development and law-discovery experiments; ordinary comparators absorb the positive results. | Conventional machinery and finite identifiability audit |
+| Library learning, biased search and exploratory portfolios | Reuse can alter proposal distributions and amortize discovery costs. | Target-blind inherited templates improve some target banks and reduce other coverage. | Scoped empirical result; no universal gain |
+| Evolutionary diversification and niche specialization | Distinct lineages can exploit different environments; resource constraints and competition affect persistence. | Proposed lifetime population assay and separation of retention from activation. | Motivation; not executed |
+
 ## Primary reading and cross-checks
 
 - Earlier source links and scope: [geometry notes](../archive/geometry-and-reality/hexcore_geometry_notes.md), [commitment notes](../archive/geometry-and-reality/hexcore_commitment_notes.md), [flux guard notes](../archive/geometry-and-reality/hexcore_flux_guard_notes.md), [rank transfer notes](../archive/geometry-and-reality/hexcore_rank_transfer_notes.md).
@@ -37,6 +42,8 @@ Purpose: absorb established science before claiming novelty. This is a working l
 - The original C0 and BL evidence and claim ceilings: [CHAT_EVIDENCE_LEDGER.md](../archive/CHAT_EVIDENCE_LEDGER.md).
 
 - Chandrasekaran, [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924v1) (2026 preprint), §2, §5.2 and Appendix D.2; see [CAUSAL_BOUNDARY.md](CAUSAL_BOUNDARY.md) for claim ceilings and open audit questions.
+
+- [Development and luck synthesis](DEVELOPMENT_AND_LUCK.md) and [original experiment archive](../archive/development-and-luck/README.md). These additions are conceptual mappings to standard subject areas, not a completed literature search or novelty adjudication.
 
 ## Promotion rule
 

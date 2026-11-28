@@ -8,6 +8,8 @@ The question is whether memory, computation, learning and adaptation can arise f
 
 ## Start here
 
+- [How the products of interaction change later interactions](docs/DEVELOPMENT_AND_LUCK.md): developmental rules, cumulative discoveries, retention, specialization and lifetime resource accounting.
+
 - [Causal boundaries and the cost of consistency](docs/CAUSAL_BOUNDARY.md): null-cone gravity reading and exact classical boundary-information example.
 
 **New reading path:** [Geometry of possible interactions — cross-lineage synthesis](docs/SYNTHESIS.md) · [Rediscovery and translation ledger](docs/REDISCOVERY_LEDGER.md) · [Proposed bridge assay](docs/INTERACTION_TEST.md)
@@ -20,6 +22,7 @@ The question is whether memory, computation, learning and adaptation can arise f
 - [Artifact archive and reproduction notes](archive/README.md)
 - [Geometry, correction certificates and streamed reality](archive/geometry-and-reality/README.md)
 - [C0 / Bitter Lesson lineages](archive/CHAT_LINEAGE.md)
+- [Chemistry, development, law discovery and luck archive](archive/development-and-luck/README.md)
 
 The project draws inspiration from non-equilibrium dynamics, improvisational jazz, echolocation, flow and recurrent generative imagery. These are analogies, not physical equivalences or clinical claims. The Hexcore from Arcane inspired the working name, not the scientific mechanism.
 

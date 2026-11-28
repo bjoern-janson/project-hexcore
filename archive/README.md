@@ -11,3 +11,7 @@ See [CHAT_LINEAGE.md](CHAT_LINEAGE.md) for C0–C0p and BL-01–09, [CHAT_EVIDEN
 ## Geometry and streamed reality
 
 See [geometry-and-reality/README.md](geometry-and-reality/README.md) for eight additional Python experiments, eight result files, four mathematical notes and the verified original-file manifest. These extend the historical research with budgeted discovery, commitment, reversible and time-varying correction, certificate handoffs, and interaction-driven simulation. [SYNTHESIS.md](../docs/SYNTHESIS.md) connects these to earlier lineages without promoting them to new validated claims.
+
+## Development and cumulative discovery
+
+See [development-and-luck/README.md](development-and-luck/README.md) for the four experimental batches, eight original Python implementations, protocols, available logs and exact custody status. The remaining raw result files and original ZIPs require the separately delivered completion bundle. The new [development and luck synthesis](../docs/DEVELOPMENT_AND_LUCK.md) separates retained information, its activation, reconstruction cost and lifetime exploration.

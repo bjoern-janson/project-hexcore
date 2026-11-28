@@ -107,3 +107,7 @@ The candidate universal statement is deliberately weaker than "every adaptation 
 Keep the original [topology protocol](PROTOCOL.md) distinct. A proposed bridge experiment is specified in [INTERACTION_TEST.md](INTERACTION_TEST.md). It gives simulation, active sensing, correction debt, multiobserver consistency and mutable interfaces a common finite assay with actual resource accounting. It does not prescribe the eventual Hexcore substrate and has not been executed or preregistered.
 
 The long-term goal remains: make the subject fluid while the evidence, cost ledger and external intervention rights remain fixed. Don't mistake coherent mutual feedback for grounding. Don't mistake low measured error for preservation of corrective access. Don't confuse a cheaper representation with a cheaper world, or a new name with a new result.
+
+## 9. Development, luck and ecological specialization
+
+The subsequent [chemistry, development, law discovery and luck experiments](../archive/development-and-luck/README.md) introduce another distinction: a structure may be retained, expressed, reconstructed, or used as a bias on future exploration. These need separate costs and measurements. Inheritance can improve discovery under aligned conditions while reducing discovery elsewhere. The [new synthesis](DEVELOPMENT_AND_LUCK.md) gives a finite inclusion-probability formulation, distinguishes lifetime gains from survival before a gain, and proposes a resource-matched population experiment. It does not establish a new universal law or replace the original bridge assay.
